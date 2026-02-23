@@ -1,0 +1,13 @@
+{
+  "name": "Addon ",
+  "colors": [
+     "9fe8c5",
+     "5180"
+  ],
+  "ingredient": {
+    "item": "industrialforegoing:processing_addon_tier_2"
+  },
+  "materialCount": 50,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

@@ -1,0 +1,93 @@
+#Growth Crystal - Configure crop growth acceleration rates
+[growth_crystal]
+	#Growth acceleration rate for Tier 1 Growth Crystal (1.0 = 100%)
+	#Higher values increase growth speed
+	# Default: 0.25
+	# Range: 0.0 ~ 2.0
+	tier_1_rate = 0.25
+	#Growth acceleration rate for Tier 2 Growth Crystal (1.0 = 100%)
+	#Higher values increase growth speed
+	# Default: 0.5
+	# Range: 0.0 ~ 2.0
+	tier_2_rate = 0.5
+	#Growth acceleration rate for Tier 3 Growth Crystal (1.0 = 100%)
+	#Higher values increase growth speed
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	tier_3_rate = 1.0
+
+#Cobblestone Generator - Configure generation rates for all tiers
+[cobblestone_generator]
+	#Cobblestone generation interval for Tier 1 (ticks)
+	#Lower values = faster generation
+	# Default: 40
+	# Range: 1 ~ 200
+	tier_1_ticks = 40
+	#Cobblestone generation interval for Tier 2 (ticks)
+	#Lower values = faster generation
+	# Default: 20
+	# Range: 1 ~ 200
+	tier_2_ticks = 20
+	#Cobblestone generation interval for Tier 3 (ticks)
+	#Lower values = faster generation
+	# Default: 10
+	# Range: 1 ~ 200
+	tier_3_ticks = 10
+	#Cobblestone generation interval for Tier 4 (ticks)
+	#Lower values = faster generation
+	# Default: 5
+	# Range: 1 ~ 200
+	tier_4_ticks = 5
+	#Cobblestone generation interval for Tier 5 (ticks)
+	#Lower values = faster generation
+	# Default: 1
+	# Range: 1 ~ 200
+	tier_5_ticks = 1
+
+#Lava Generator - Configure lava generation rate
+[lava_generator]
+	#Lava generation rate (millibuckets per tick)
+	#Higher values = faster generation
+	# Default: 1
+	# Range: 1 ~ 1000
+	mb_per_tick = 1
+
+#Water Reservoir - Configure infinite water source behavior
+[water_reservoir]
+	#Enable infinite water source
+	#If true, Water Reservoir acts as an infinite water source
+	#If false, it acts as a 16-bucket tank
+	infinite_water = true
+
+#Greenhouse Glass - Configure growth boost and effective depth
+[greenhouse_glass]
+	#Growth boost percentage when in direct sunlight
+	#Higher values increase growth speed (1.0 = 100%)
+	# Default: 1.0
+	# Range: 0.05 ~ 2.0
+	growth_boost = 1.0
+	#Number of blocks below the greenhouse glass to check for crops
+	#Note: Larger ranges may impact performance
+	# Default: 5
+	# Range: 1 ~ 32
+	range = 5
+
+#Repair Totem - Configure item repair rates
+[repair_totem]
+	#Durability repaired per totem per interval
+	#Higher values = faster repair
+	# Default: 1
+	# Range: 1 ~ 100
+	durability_per_totem = 1
+	#How often repair occurs (in ticks)
+	#Lower values = more frequent repair
+	# Default: 20
+	# Range: 1 ~ 200
+	tick_interval = 20
+
+#Big Bucket - Configure capacity
+[big_bucket]
+	#Big Bucket capacity in buckets
+	# Default: 16
+	# Range: 8 ~ 64
+	capacity = 16

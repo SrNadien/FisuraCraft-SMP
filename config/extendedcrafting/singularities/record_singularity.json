@@ -1,0 +1,13 @@
+{
+  "name": "Record ",
+  "colors": [
+    "9696de",
+    "fff020"
+  ],
+  "ingredient": {
+    "item": "avaritia:record_fragment"
+  },
+  "materialCount": 35,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

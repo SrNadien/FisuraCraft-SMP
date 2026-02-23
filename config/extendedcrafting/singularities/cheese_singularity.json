@@ -1,0 +1,13 @@
+{
+  "name": "Cheese ",
+  "colors": [
+    "ffb002",
+    "fffef2"
+  ],
+  "ingredient": {
+    "item": "farmersdelight:sweet_berry_cheesecake_slice"
+  },
+  "materialCount": 50,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

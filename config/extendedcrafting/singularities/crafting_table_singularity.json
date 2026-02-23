@@ -1,0 +1,13 @@
+{
+  "name": "Crafting Table ",
+  "colors": [
+    "d23c14",
+    "081000"
+  ],
+  "ingredient": {
+    "item": "minecraft:crafting_table"
+  },
+  "materialCount": 20,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

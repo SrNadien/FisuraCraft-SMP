@@ -1,0 +1,13 @@
+{
+  "name": "Prometheum",
+  "colors": [
+    "f7b5fb",
+    "4f1e2b"
+  ],
+  "ingredient": {
+    "item": "oritech:prometheum_ingot"
+  },
+  "materialCount": 500,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

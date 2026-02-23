@@ -1,0 +1,140 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "botany_pots"
+	group: "759EEB9DC52686ED"
+	id: "30351149F939333A"
+	images: [{
+		height: 6.0d
+		image: "custom:textures/botanypotstiers.png"
+		rotation: 0.0d
+		width: 16.0d
+		x: 2.0d
+		y: -6.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "01B70A4F230ED036"
+			rewards: [
+				{
+					count: 2
+					id: "0AC970B512BC6821"
+					item: {
+						count: 1
+						id: "minecraft:terracotta"
+					}
+					type: "item"
+				}
+				{
+					id: "5E4853D67766A132"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			size: 1.25d
+			tasks: [{
+				id: "1958DBFE401157E6"
+				item: { count: 1, id: "botanypots:terracotta_botany_pot" }
+				type: "item"
+			}]
+			x: -3.125d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01B70A4F230ED036"]
+			id: "2715BECC5E6FFA64"
+			rewards: [
+				{
+					id: "3CE68937F914479A"
+					item: {
+						count: 1
+						id: "minecraft:hopper"
+					}
+					type: "item"
+				}
+				{
+					id: "1AC7BCFCCC100F4C"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "572F01124B2232CD"
+				item: { count: 1, id: "botanypots:terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2715BECC5E6FFA64"]
+			id: "004F8218EA2763F2"
+			tasks: [{
+				id: "70393C1D968EAFF2"
+				item: { count: 1, id: "botanypotstiers:elite_terracotta_botany_pot" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["004F8218EA2763F2"]
+			id: "20353C0B6F07995F"
+			tasks: [{
+				id: "11B618DC352765B4"
+				item: { count: 1, id: "botanypotstiers:elite_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["20353C0B6F07995F"]
+			id: "64C5608B4FDA7C23"
+			tasks: [{
+				id: "6A032F50DCD189E5"
+				item: { count: 1, id: "botanypotstiers:ultra_terracotta_botany_pot" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["64C5608B4FDA7C23"]
+			id: "1B50BB0E15FCA9AB"
+			tasks: [{
+				id: "4F964A865949B6CD"
+				item: { count: 1, id: "botanypotstiers:ultra_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B50BB0E15FCA9AB"]
+			id: "657A79BDE82EC8E1"
+			tasks: [{
+				id: "5DD347E6E8048E30"
+				item: { count: 1, id: "botanypotstiers:mega_terracotta_botany_pot" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["657A79BDE82EC8E1"]
+			id: "60BA3C3988C8D6FD"
+			tasks: [{
+				id: "366B3E8A877241FE"
+				item: { count: 1, id: "botanypotstiers:mega_terracotta_hopper_botany_pot" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+	]
+}

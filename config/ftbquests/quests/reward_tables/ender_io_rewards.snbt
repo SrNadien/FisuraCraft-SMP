@@ -1,0 +1,71 @@
+{
+	id: "4F8EB6F23CDFE68A"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{ id: "7F1D70E1B4ABB2B0", item: { count: 1, id: "enderio:conductive_alloy_ingot" } }
+		{ id: "36729D7B4C3598B4", item: { count: 1, id: "enderio:energetic_alloy_ingot" } }
+		{ id: "6126AE507B6EF5C6", item: { count: 1, id: "enderio:vibrant_alloy_ingot" } }
+		{ id: "0E610C9EE4262EA5", item: { count: 1, id: "enderio:redstone_alloy_ingot" } }
+		{ id: "2C506B4B99B83F37", item: { count: 1, id: "enderio:redstone_alloy_ingot" } }
+		{ id: "5D3D74E221F278AE", item: { count: 1, id: "enderio:conductive_alloy_ingot" } }
+		{ id: "735673F9F283507B", item: { count: 1, id: "enderio:pulsating_alloy_ingot" } }
+		{ id: "2C2F7C6282C2A8DA", item: { count: 1, id: "enderio:dark_steel_ingot" } }
+		{ id: "0C6DE5BAF5FA67C1", item: { count: 1, id: "enderio:soularium_ingot" } }
+		{ id: "5B557B54406D3467", item: { count: 1, id: "enderio:end_steel_ingot" } }
+		{ id: "1C41D7791F5FC695", item: { count: 1, id: "enderio:basic_capacitor" } }
+		{ id: "0840838D31CEEBE5", item: { count: 1, id: "enderio:sentient_ender" } }
+		{ id: "652C7528778A9C41", item: { count: 1, id: "enderio:ender_resonator" } }
+		{ id: "6F678A4A27506448", item: { count: 1, id: "enderio:z_logic_controller" } }
+		{ id: "31B0B7F064B968C9", item: { count: 1, id: "enderio:zombie_electrode" } }
+		{ id: "6C4CD7DA0CB577EF", item: { count: 1, id: "enderio:frank_n_zombie" } }
+		{ id: "49E89D315F9D01A8", item: { count: 1, id: "enderio:guardian_diode" } }
+		{ id: "1C5098C76B0FF6CC", item: { components: { "ftbquests:missing_item": "enderio:nethercotta" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "76F149C68AC2ADBF", item: { components: { "ftbquests:missing_item": "enderio:wood_gear" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5241061033023CAC", item: { components: { "ftbquests:missing_item": "enderio:stone_gear" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "09DF9D8E5AEF8C8A", item: { count: 1, id: "enderio:energized_gear" } }
+		{ id: "6011F1B0603B7278", item: { count: 1, id: "enderio:vibrant_gear" } }
+		{ id: "4B6BFB27996EBC94", item: { count: 1, id: "enderio:dark_bimetal_gear" } }
+		{ id: "6D1412E0CDCC9CE6", item: { count: 1, id: "enderio:pulsating_crystal" } }
+		{ id: "172C47FD1376F52D", item: { count: 1, id: "enderio:vibrant_crystal" } }
+		{ id: "74DD54B6CCFC7FB3", item: { count: 1, id: "enderio:ender_crystal" } }
+		{ id: "72E0977CF51C78A7", item: { count: 1, id: "enderio:enticing_crystal" } }
+		{ id: "05FBF225E9F625B5", item: { count: 1, id: "enderio:weather_crystal" } }
+		{ id: "69424341103805F6", item: { count: 1, id: "enderio:prescient_crystal" } }
+		{ id: "049ECE0C84594827", item: { count: 1, id: "enderio:fluid_tank" } }
+		{ id: "62099EF580DB4A6E", item: { count: 1, id: "enderio:pressurized_fluid_tank" } }
+		{ id: "7D639C8549337A1B", item: { count: 1, id: "enderio:reinforced_obsidian_block" } }
+		{
+			id: "1346C8E7C3898DAE"
+			item: {
+				count: 1
+				id: "enderio:void_chassis"
+			}
+			random_bonus: 4
+		}
+		{
+			id: "70845761AB35B5A6"
+			item: {
+				count: 1
+				id: "enderio:ensouled_chassis"
+			}
+			random_bonus: 4
+		}
+		{
+			id: "58D604C98EBEA149"
+			item: {
+				count: 1
+				id: "enderio:grains_of_infinity"
+			}
+			random_bonus: 16
+		}
+		{
+			id: "7F2BCC1CC252BCA0"
+			item: {
+				count: 1
+				id: "enderio:silicon"
+			}
+			random_bonus: 16
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Uraninite ",
+  "colors": [
+    "333332",
+    "ffff00"
+  ],
+  "ingredient": {
+    "item": "powah:uraninite"
+  },
+  "materialCount": 500,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

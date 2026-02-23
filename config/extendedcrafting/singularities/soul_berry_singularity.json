@@ -1,0 +1,13 @@
+{
+  "name": "Soul Berry ",
+  "colors": [
+    "00bfff",
+    "94a5db"
+  ],
+  "ingredient": {
+    "item": "allthemodium:ancient_soulberries"
+  },
+  "materialCount": 15,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

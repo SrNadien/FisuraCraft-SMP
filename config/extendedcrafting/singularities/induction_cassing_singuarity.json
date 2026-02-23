@@ -1,0 +1,13 @@
+{
+  "name": "Induction Cassing ",
+  "colors": [
+    "008000",
+    "00ff00"
+  ],
+  "ingredient": {
+    "item": "mekanism:induction_casing"
+  },
+  "materialCount": 8,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

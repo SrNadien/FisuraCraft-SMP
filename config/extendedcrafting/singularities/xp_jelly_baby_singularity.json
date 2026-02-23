@@ -1,0 +1,13 @@
+{
+  "name": "XP Jelly Baby ",
+  "colors": [
+    "6d6c44",
+    "dc88a7"
+  ],
+  "ingredient": {
+    "item": "mob_grinding_utils:solid_xp_baby"
+  },
+  "materialCount": 50,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

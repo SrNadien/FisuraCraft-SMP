@@ -1,0 +1,13 @@
+{
+  "name": "Caca Singularity ",
+  "colors": [
+    "8cd660",
+    "d242a5"
+  ],
+  "ingredient": {
+    "item": "ultimatefoods:superpoop"
+  },
+  "materialCount": 777,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

@@ -1,0 +1,55 @@
+{
+	id: "481E10AEAC95C550"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{ id: "6E09FD338CF8CE07", item: { count: 1, id: "mekanism:pellet_antimatter" } }
+		{ id: "64D59E2B80A6D8F3", item: { count: 1, id: "avaritia:blaze_sword" } }
+		{
+			id: "1976594E49A64FA7"
+			item: {
+				count: 1
+				id: "createaddition:electric_motor"
+			}
+			random_bonus: 3
+			weight: 4.0f
+		}
+		{ id: "17F4C0BC5C1EC183", item: { count: 1, id: "ars_nouveau:wand" } }
+		{ id: "2CEA392416EFE931", item: { count: 1, id: "ae2_mega_things:item_disk_drive_16m" } }
+		{ id: "6892DEC86FD3E848", item: { count: 1, id: "generatorgalore:netherstar_generator" } }
+		{
+			auto: "disabled"
+			id: "0CB89E8FD47E7F97"
+			item: {
+				count: 1
+				id: "allthecompressed:nether_star_block_9x"
+			}
+			only_one: true
+		}
+		{
+			count: 4
+			id: "410203DDD23E2707"
+			item: {
+				count: 1
+				id: "botanypotstiers:elite_upgrade"
+			}
+		}
+		{
+			count: 4
+			id: "5E2986FAF696C5A1"
+			item: {
+				count: 1
+				id: "botanypotstiers:ultra_upgrade"
+			}
+		}
+		{
+			count: 4
+			id: "0A7915803C2CA1CD"
+			item: {
+				count: 1
+				id: "botanypotstiers:mega_upgrade"
+			}
+		}
+	]
+	use_title: true
+}

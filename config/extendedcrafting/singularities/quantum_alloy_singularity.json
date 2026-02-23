@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Alloy ",
+  "colors": [
+    "a15fff",
+    "81bcd5"
+  ],
+  "ingredient": {
+    "item": "advanced_ae:quantum_alloy"
+  },
+  "materialCount": 500,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

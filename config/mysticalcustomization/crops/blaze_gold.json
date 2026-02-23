@@ -1,0 +1,13 @@
+{
+    "name": "BlazeGold",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+      "item": "justdirethings:blazegold_block"
+    },
+   "color": "FFB300",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"  
+     }
+  }

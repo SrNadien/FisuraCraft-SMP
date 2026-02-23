@@ -1,0 +1,13 @@
+{
+  "name": "Nadienite ",
+  "colors": [
+    "333332",
+    "ffff00"
+  ],
+  "ingredient": {
+    "item": "ultimatefoods:nadienite_block"
+  },
+  "materialCount": 20,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

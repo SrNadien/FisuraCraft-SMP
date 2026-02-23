@@ -1,0 +1,494 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "06C4634E81851A6C"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			id: "71E4E73557DEADA2"
+			item: {
+				count: 1
+				id: "botanypots:terracotta_hopper_botany_pot"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "07D753A5AD3BDDC8"
+			item: {
+				count: 1
+				id: "minecraft:fox_spawn_egg"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "49D847F4C97314DD"
+			item: {
+				count: 1
+				id: "functionalstorage:copper_upgrade"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "6647549FC5EAA96F"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_1"
+			}
+			random_bonus: 2
+			weight: 7.0f
+		}
+		{
+			id: "7FCA9FEA9A9A20A5"
+			item: {
+				count: 1
+				id: "functionalstorage:void_upgrade"
+			}
+			weight: 3.0f
+		}
+		{ id: "14EEA0460F0ADE20", item: { count: 1, id: "functionalstorage:storage_controller" } }
+		{
+			id: "11839EC454DB0F1F"
+			item: {
+				count: 1
+				id: "industrialforegoing:mob_imprisonment_tool"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "241F22EA9433E27E"
+			item: {
+				count: 1
+				id: "cookingforblockheads:sink"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5FF74241B60BF7E9"
+			item: {
+				count: 1
+				id: "ironfurnaces:augment_blasting"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "796A308EA11B22B3"
+			item: {
+				count: 1
+				id: "ironfurnaces:augment_factory"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "3604A530ED5833C8"
+			item: {
+				count: 1
+				id: "ironfurnaces:million_furnace"
+			}
+			weight: 3.0f
+		}
+		{ id: "6323FAE6C13323A6", item: { count: 1, id: "ars_nouveau:glyph_summon_wolves" } }
+		{ id: "571681C7F8988481", item: { count: 1, id: "ars_nouveau:glyph_light" } }
+		{
+			count: 8
+			id: "753A35DB1E676C04"
+			item: {
+				components: {
+					"enderio:conduit": "enderio:ender_item"
+				}
+				count: 1
+				id: "enderio:conduit"
+			}
+			random_bonus: 8
+			weight: 5.0f
+		}
+		{
+			id: "765C165EDB224E34"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			id: "29C8ED6CC8434971"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:upgrade_base"
+			}
+			weight: 2.0f
+		}
+		{
+			icon: {
+				id: "sophisticatedbackpacks:copper_backpack"
+			}
+			id: "6B695EF635BE9F30"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:copper_backpack"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "13654AAC4430EDB4"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:crafting_upgrade"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5D5EF7BA8EA9A615"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:upgrade_base"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "776F2BB0700D6237"
+			item: {
+				count: 1
+				id: "enderio:advanced_item_filter"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "6FCB2AF2A32F31FE"
+			item: {
+				count: 1
+				id: "mekanism:basic_tier_installer"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6627ED8984BA1C46"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_speed"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6856C3169D4E9A02"
+			item: {
+				count: 1
+				id: "mekanism:upgrade_energy"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "16335A7FF3A03346"
+			item: {
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 3.0f
+		}
+		{ id: "2C6298D454034192", item: { count: 1, id: "minecraft:potion" } }
+		{
+			count: 4
+			id: "7E801E28AD8D3A9F"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{
+			count: 2
+			id: "084B0325EAA36627"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "658D3F36FC98A658"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			random_bonus: 8
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "5A4E0F20CABADD3B"
+			item: {
+				count: 1
+				id: "minecraft:amethyst_shard"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "32823A8C520A0396"
+			item: {
+				count: 1
+				id: "minecraft:torch"
+			}
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{ id: "17C9A9FC8F66D895", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "5EA48112CD5B1D1B", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "10C9615874A547D4", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "221B8FC6AC02DE01", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "0F2DA9E76D6E1395", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "39FA1F016840F01B", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "1475BBDA60F7BADC", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "6F48CF23D6E2EF14", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "3653E1684A6DB6FA", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{
+			count: 6
+			id: "26100FD38830A218"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+			random_bonus: 6
+			weight: 7.0f
+		}
+		{
+			id: "061E88B48D6FA8A9"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "66A9E4D978CEAB72"
+			item: {
+				count: 1
+				id: "alltheores:copper_ore_hammer"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "50C2193ECBE07A5E"
+			item: {
+				count: 1
+				id: "minecraft:saddle"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1B3F7CE8333BDA72"
+			item: {
+				components: {
+					"ftbquests:missing_item": "constructionstick:iron_stick"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "71A03A77AD61BBC7"
+			item: {
+				count: 1
+				id: "minecraft:cat_spawn_egg"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "4127A5E37D604BCD"
+			item: {
+				count: 1
+				id: "minecraft:wolf_spawn_egg"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "250D3C91C998C506"
+			item: {
+				count: 1
+				id: "minecraft:parrot_spawn_egg"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 3
+			id: "77E1D4CC091F560C"
+			item: {
+				count: 1
+				id: "minecraft:melon_seeds"
+			}
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "0498A745CBF2D68E"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{
+			count: 2
+			id: "27F061A64EACADB8"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "77946056EDD36F88"
+			item: {
+				count: 1
+				id: "minecraft:cooked_porkchop"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 3
+			id: "1F43D2CC7BACCC53"
+			item: {
+				count: 1
+				id: "minecraft:cooked_chicken"
+			}
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 8
+			id: "75149C92D616D41F"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+			random_bonus: 8
+			weight: 15.0f
+		}
+		{
+			count: 4
+			id: "0862981F10DEE0F3"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "491A5DE684607321"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "1492E65FEA7799B1"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+			random_bonus: 4
+			weight: 7.0f
+		}
+		{
+			id: "12D81D2031563DF3"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "42221A633F47BBB3"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{
+			id: "15A7D9A81A9C96FD"
+			item: {
+				count: 1
+				id: "minecraft:bucket"
+			}
+			weight: 7.0f
+		}
+		{
+			id: "72FD3543A2A757E2"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_2"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "24AA73FBBAA1B4B6"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_4"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "027E52D55479503F"
+			item: {
+				count: 1
+				id: "alltheores:iron_ore_hammer"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6EC9E26979C326BA"
+			item: {
+				count: 1
+				id: "minecraft:honeycomb"
+			}
+			random_bonus: 3
+			weight: 7.0f
+		}
+		{
+			id: "25A97E4975411D13"
+			item: {
+				count: 1
+				id: "minecraft:honey_bottle"
+			}
+			random_bonus: 2
+			weight: 7.0f
+		}
+		{
+			id: "142381E18A6BD532"
+			item: {
+				count: 1
+				id: "minecraft:beehive"
+			}
+			weight: 7.0f
+		}
+		{ id: "738B023DCF4A4371", item: { count: 1, id: "ae2:flawless_budding_quartz" } }
+		{ id: "097757BD49FAAB13", item: { count: 1, id: "powah:magmator_basic" } }
+		{ id: "1082B08823DDAEF7", item: { count: 1, id: "powah:furnator_basic" } }
+		{ id: "22C8251C405BF413", item: { count: 1, id: "minecraft:potion" } }
+	]
+	use_title: true
+}

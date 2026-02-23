@@ -1,0 +1,284 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "4D37FFAF33DF678A"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{ id: "4F7CBB7C38A02AB6", item: { count: 1, id: "sophisticatedbackpacks:everlasting_upgrade" } }
+		{
+			id: "57E66AFC50493670"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:stack_upgrade_tier_2"
+			}
+			weight: 5.0f
+		}
+		{ id: "68FDE6AA9C0FEB7D", item: { count: 1, id: "kubejs:compressed_octadic_capacitor" } }
+		{
+			id: "083DD9E764CD83BA"
+			item: {
+				count: 1
+				id: "functionalstorage:diamond_upgrade"
+			}
+			weight: 3.0f
+		}
+		{ id: "3572D3993EB0B741", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{ id: "218EF741DAB77570", item: { count: 1, id: "minecraft:enchanted_book" } }
+		{
+			id: "7F860911BDF8F065"
+			item: {
+				count: 1
+				id: "pipez:ultimate_upgrade"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "590ECF7EA777766B"
+			item: {
+				count: 1
+				id: "mekanism:advanced_energy_cube"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "01E060C88C29EDFA"
+			item: {
+				count: 1
+				id: "mekanism:elite_tier_installer"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "5BBA5C4E6076E51A"
+			item: {
+				count: 1
+				id: "minecraft:dragon_egg"
+			}
+			weight: 2.0f
+		}
+		{ id: "79E12A4F38549B50", item: { count: 1, id: "minecraft:dragon_head" } }
+		{ id: "2DC602067BE76CFA", item: { count: 1, id: "artifacts:charm_of_sinking" } }
+		{
+			id: "792A4B2FEFF9B3D7"
+			item: {
+				count: 1
+				id: "artifacts:vampiric_glove"
+			}
+			weight: 2.0f
+		}
+		{ id: "5032150F8FE82D9C", item: { count: 1, id: "artifacts:umbrella" } }
+		{ id: "24566DD6F77136CF", item: { count: 1, id: "artifacts:night_vision_goggles" } }
+		{
+			id: "2904B3D09A98A065"
+			item: {
+				count: 1
+				id: "artifacts:golden_hook"
+			}
+			weight: 2.0f
+		}
+		{ id: "146D8C39308112FB", item: { count: 1, id: "artifacts:crystal_heart" } }
+		{
+			id: "287FCCD6A95BE74C"
+			item: {
+				components: {
+					"enderio:capacitor_data": {
+						base: 6.0f
+						specializations: { }
+					}
+				}
+				count: 1
+				id: "capacitoradditions:unobtainium_capacitor"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1A246D4D55ABA412"
+			item: {
+				count: 1
+				id: "alltheores:enderium_ingot"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			id: "210B0F4649FF5120"
+			item: {
+				count: 1
+				id: "alltheores:invar_ingot"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "2145CE261F5E8979"
+			item: {
+				count: 1
+				id: "minecraft:obsidian"
+			}
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{
+			count: 2
+			id: "64CCEEB9D34C7D37"
+			item: {
+				count: 1
+				id: "fluxnetworks:flux_dust"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			id: "5943FA3534EB4E6E"
+			item: {
+				count: 1
+				id: "fluxnetworks:flux_block"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{
+			id: "179FBA9D2B3B8E50"
+			item: {
+				count: 1
+				id: "fluxnetworks:flux_point"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1A2E13A3358FD1C9"
+			item: {
+				count: 1
+				id: "fluxnetworks:flux_plug"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "171233D5D9657A52"
+			item: {
+				count: 1
+				id: "fluxnetworks:basic_flux_storage"
+			}
+			weight: 3.0f
+		}
+		{ id: "23A77468BE76CE9E", item: { count: 1, id: "fluxnetworks:herculean_flux_storage" } }
+		{
+			count: 4
+			id: "2FD3BA23DFACB12F"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_universal_cable"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{
+			count: 20
+			id: "4CE5EA664E28B93E"
+			item: {
+				count: 1
+				id: "curvy_pipes:large_item_pipe"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "2DB9A02BA4527274"
+			item: {
+				count: 1
+				id: "mekanism:ingot_refined_obsidian"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			id: "36D96D08F94BCBC7"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+			random_bonus: 2
+			weight: 7.0f
+		}
+		{
+			id: "16E5BA24663252CF"
+			item: {
+				count: 1
+				id: "minecraft:emerald_block"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{
+			id: "7A3B4C5169FE6562"
+			item: {
+				count: 1
+				id: "minecraft:beacon"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "627846DDDB502248"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			random_bonus: 2
+			weight: 2.0f
+		}
+		{ id: "22313F5D31E7901B", item: { count: 1, id: "ars_nouveau:enchanters_sword" } }
+		{ id: "5FC94985DC697572", item: { count: 1, id: "ars_nouveau:basic_spell_turret" } }
+		{
+			id: "45DEFEEB5E4F6658"
+			item: {
+				count: 1
+				id: "ars_nouveau:apprentice_spell_book"
+			}
+			weight: 2.0f
+		}
+		{ id: "4CA0A84905928F5A", item: { count: 1, id: "ars_nouveau:wand" } }
+		{ id: "1CE637345D26434C", item: { count: 1, id: "ars_nouveau:enchanters_shield" } }
+		{ id: "5620D8399CCA4AB4", item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_3" } }
+		{ id: "072EC2E4F218877A", item: { count: 1, id: "functionalstorage:netherite_upgrade" } }
+		{
+			id: "2E6676F5FB0C17D5"
+			item: {
+				count: 1
+				id: "functionalstorage:gold_upgrade"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{
+			id: "2006CEEE7BEE01A4"
+			item: {
+				count: 1
+				id: "minecraft:ghast_tear"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			id: "495F7C0ECD6CBEA8"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem_block"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "71B16B97DEBF054E"
+			item: {
+				count: 1
+				id: "minecraft:budding_amethyst"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ id: "685F4979EA92D150", item: { count: 1, id: "kubejs:double_compressed_octadic_capacitor" } }
+	]
+	use_title: true
+}

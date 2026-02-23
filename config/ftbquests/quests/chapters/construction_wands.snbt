@@ -1,0 +1,105 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "construction_wands"
+	group: "428CE9AF17D90D68"
+	id: "31FB5FB6A589F774"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			hide_until_deps_complete: true
+			icon: {
+				id: "constructionwand:netherite_wand"
+			}
+			id: "0847D876946B22AB"
+			tasks: [{
+				id: "578A92D394D0EBA1"
+				item: { count: 1, id: "minecraft:cherry_log" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			hide_until_deps_complete: true
+			id: "7774D83B5125A4E8"
+			tasks: [{
+				id: "0AD4C0589F0F68C8"
+				item: { count: 1, id: "constructionwand:stone_wand" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			id: "18FC8E22240B1216"
+			tasks: [{
+				id: "54D12B5371944EDD"
+				item: { count: 1, id: "constructionwand:iron_wand" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "16B8E563D7C3428E"
+			tasks: [{
+				id: "6931BDBA156B16F2"
+				item: { count: 1, id: "constructionwand:diamond_wand" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "3BBC574DF9A4A624"
+			tasks: [{
+				id: "0683BB94AE05CB2C"
+				item: { count: 1, id: "constructionwand:netherite_wand" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			id: "558284E0074B696D"
+			rewards: [{
+				count: 2
+				id: "07E77816E5590DF7"
+				item: {
+					count: 1
+					id: "botanypotstiers:ultra_upgrade"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "61535A157BAAFE0E"
+				item: { count: 1, id: "constructionwand:infinity_wand" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "4EC2264F873DB23A"
+			tasks: [{
+				id: "28614EDF253B14ED"
+				item: { count: 1, id: "constructionwand:core_destruction" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			id: "18912EC9BEB9BEA5"
+			tasks: [{
+				id: "2B10C516A07E83B7"
+				item: { count: 1, id: "constructionwand:core_angel" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+	]
+}

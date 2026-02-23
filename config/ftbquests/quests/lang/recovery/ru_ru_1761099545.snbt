@@ -1,0 +1,14 @@
+{
+	file.snbt: {
+		file.0000000000000001.title: {
+			new: "All The Mods 10: To the Sky!"
+			old: "Arcane Ascension!"
+		}
+	}
+	"chapters/chapter_1_starting_out.snbt": {
+		quest.22C568A17B5D1B46.quest_subtitle: {
+			new: "Добро пожаловать в All The Mods 10: To the Sky! Теперь с десятками."
+			old: "Добро пожаловать в Arcane Ascension! Теперь с десятками."
+		}
+	}
+}

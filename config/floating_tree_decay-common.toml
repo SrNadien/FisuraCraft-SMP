@@ -1,0 +1,11 @@
+[floating_tree_decay]
+	#How many ticks between log decay operations
+	# Default: 0
+	# Range: 0 ~ 1000
+	decaySpeed = 0
+	#How many logs can be in a tree before it won't decay
+	# Default: 128
+	# Range: 0 ~ 1000
+	maxTreeSize = 128
+	#Logs emit particles & sound when they decay
+	enableParticles = true

@@ -1,0 +1,13 @@
+{
+  "name": "Andesite Cassing ",
+  "colors": [
+    "ffcc00",
+    "ff9900"
+  ],
+  "ingredient": {
+    "item": "create:andesite_casing"
+  },
+  "materialCount": 8,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

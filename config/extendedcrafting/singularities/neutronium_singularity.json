@@ -1,0 +1,13 @@
+{
+  "name": "Neutronium ",
+  "colors": [
+    "507f00",
+    "283e08"
+  ],
+  "ingredient": {
+    "item": "avaritia:neutron"
+  },
+  "materialCount": 250,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

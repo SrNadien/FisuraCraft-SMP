@@ -1,0 +1,765 @@
+{
+	"chapters/integrated_dynamics.snbt": {
+		quest.437F4945AFBE0825.quest_desc: {
+			old: ["Quando você clica com o botão direito em um Importador ou Exportador, um menu aparece. O menu é principalmente para filtragem, digamos que você tenha um Cartão Variável configurado para Pedregulho, seu Exportador enviará apenas Pedregulho.\\n\\nHá um pequeno \"+\" à esquerda das variáveis quando você as insere, clicar nele abre outra GUI. Aqui você pode alterar as taxas de transferência para poder enviar &dINFINITOS&r itens/fluidos/energia, além de poder fazer outras coisas.\\n\\nNo canto superior esquerdo temos as configurações, que são, na maior parte, as mesmas que as configurações da interface."]
+			new: ["Quando você clica com o botão direito em um Importador ou Exportador, um menu aparece. O menu é principalmente para filtragem, digamos que você tenha um Cartão Variável configurado para Pedregulho, seu Exportador enviará apenas Pedregulho.\\n\\nHá um pequeno \"+\" à esquerda das variáveis quando você as insere, clicar nele abre outra GUI. Aqui você pode alterar as taxas de transferência para poder enviar &dINFINITOS&r itens/fluidos/energia, além de poder fazer outras coisas.\\n\\nNo canto superior esquerdo temos as configurações, que são, na maior parte, as mesmas que as configurações da interface. \\n\\nNota: O lag pode limitar a taxa de transferência."]
+		}
+	}
+	chapter.snbt: {
+		chapter.76DF5FAA7961E5E7.title: {
+			old: "Iron's Spells 'n Spellbooks"
+			new: "&fIron's Spells 'n Spellbooks"
+		}
+		chapter.7A5C327771634A7D.title: {
+			old: "Dicas de Construção"
+			new: "&fDicas de Construção"
+		}
+		chapter.22C20C1827FE6805.title: {
+			old: "Immersive Engineering"
+			new: "&fImmersive Engineering"
+		}
+		chapter.25344A9254E02C8E.title: {
+			old: "O Fim do Jogo"
+			new: "&fO Fim de Jogo"
+		}
+		chapter.306DBE1EBB85D02E.title: {
+			old: "A Era Elétrica"
+			new: "&fA Era Elétrica"
+		}
+		chapter.37BC0E99F564D560.title: {
+			old: "Era do Vapor"
+			new: "&fEra do Vapor"
+		}
+		chapter.100C477F4E63F20A.title: {
+			old: "Create"
+			new: "&fCreate"
+		}
+		chapter.05E614FDA677D85E.title: {
+			old: "Comida e Agricultura"
+			new: "&fComida e Agricultura"
+		}
+		chapter.4B9D26E0087CD163.title: {
+			old: "Ferramentas Básicas"
+			new: "&fFerramentas Básicas"
+		}
+		chapter.219B7A003658D24F.title: {
+			old: "XyCraft"
+			new: "&fXyCraft"
+		}
+		chapter.193F91842D2ED7D9.title: {
+			old: "Industrial Foregoing"
+			new: "&fIndustrial Foregoing"
+		}
+		chapter.2FB24A5A597459FC.title: {
+			old: "RailCraft"
+			new: "&fRailCraft"
+		}
+		chapter.0AB4F9AED808DE48.title: {
+			old: "Modular Routers"
+			new: "&fModular Routers"
+		}
+		chapter.48DB721214AA88E0.title: {
+			old: "Energia de Implosão"
+			new: "&fPoder da Implosão"
+		}
+		chapter.1DB294A8F8686321.title: {
+			old: "Armazenamento Básico"
+			new: "&fArmazenamento Básico"
+		}
+		chapter.2A6EBEEBAB882679.title: {
+			old: "Powah"
+			new: "&fPowah"
+		}
+		chapter.69299302373C4CBC.title: {
+			old: "Integrated Dynamics"
+			new: "&fIntegrated Dynamics"
+		}
+		chapter.3C78926E5D301BA0.title: {
+			old: "Extreme Reactors"
+			new: "&fExtreme Reactors"
+		}
+		chapter.3B0302DB5E77C3A2.title: {
+			old: "Capítulo 1: Começando"
+			new: "&fCapítulo 1: Começando"
+		}
+		chapter.18A429E7F56AF5A9.title: {
+			old: "Quadro de Recompensas"
+			new: "&fQuadro de Recompensas"
+		}
+		chapter.5C764279146E5E66.title: {
+			old: "Mystical Agriculture"
+			new: "&fMystical Agriculture"
+		}
+		chapter.4C507C004144BFEE.title: {
+			old: "Occultism"
+			new: "&fOccultism"
+		}
+		chapter.73180B829B960E63.title: {
+			old: "Iron Furnaces"
+			new: "&fIron Furnaces"
+		}
+		chapter.6AEDA2F9BEB57759.title: {
+			old: "Ars Nouveau"
+			new: "&fArs Nouveau"
+		}
+		chapter.56B11606F5F4DAB2.title: {
+			old: "Era Digital"
+			new: "&fA Era Digital"
+		}
+		chapter.26E6ED94168A05C4.title: {
+			old: "Productive Bees"
+			new: "&fProductive Bees"
+		}
+		chapter.1D42B373285DEF81.title: {
+			old: "Silent Gear"
+			new: "&fSilent Gear"
+		}
+		chapter.5C4F10E65D86ED0E.title: {
+			old: "Era Elétrica"
+			new: "&fA Era Elétrica"
+		}
+		chapter.5D045EF1AB73DF70.title: {
+			old: "Energia Básica"
+			new: "&fEnergia Básica"
+		}
+		chapter.0A093D8C4429B627.title: {
+			old: "Mekanism: Reatores"
+			new: "&fMekanism: Reatores"
+		}
+		chapter.3DEB33F78398EAD6.chapter_subtitle: {
+			old: ["E LaserIO"]
+			new: ["LaserIO"]
+		}
+		chapter.6B13AF321AC831D1.title: {
+			old: "Era do Petróleo e Chapas à Prova de Explosão"
+			new: "&fEra do Óleo e Chapas à Prova de Explosão"
+		}
+		chapter.4791C8461B1B4D5F.title: {
+			old: "Armadura Básica"
+			new: "&fArmadura Básica"
+		}
+		chapter.07210DDF872160BA.title: {
+			old: "Applied Energistics 2"
+			new: "&fApplied Energistics 2"
+		}
+		chapter.1BE666F01EFFC00D.title: {
+			old: "Dicas e Truques"
+			new: "&fDicas e Truques"
+		}
+		chapter.0F96DC3563DA78EF.title: {
+			old: "Mystical Agriculture"
+			new: "&fMystical Agriculture"
+		}
+		chapter.1FAAEF0B9FD05CB9.title: {
+			old: "Productive Trees"
+			new: "&fProdutctive Trees"
+		}
+		chapter.415BA265E2C00859.title: {
+			old: "Começando"
+			new: "&fComeçando"
+		}
+		chapter.399A4F6D9CF8E1C9.title: {
+			old: "A Era Nuclear"
+			new: "&fA Era Nuclear"
+		}
+		chapter.4EEDECACDE8F5A67.title: {
+			old: "Oritech"
+			new: "&fOritech"
+		}
+		chapter.28BCA5042050B140.title: {
+			old: "Capítulo 2: As Partes Legais"
+			new: "&fCapítulo 2: As Partes Legais"
+		}
+		chapter.5E31DF282998B992.title: {
+			old: "PneumaticCraft"
+			new: "&fPneumaticCraft"
+		}
+		chapter.0D990A1D1E088701.title: {
+			old: "Era do Vapor: Novos Começos"
+			new: "&fA Era do Vapor: Novos Começos"
+		}
+		chapter.0A52D0932DA3F809.title: {
+			old: "Hostile Neural Networks"
+			new: "&fHostile Neural Networks"
+		}
+		chapter.12AD9789D962B179.title: {
+			old: "Encantamentos Apóticos"
+			new: "&fEncantamento Apótico"
+		}
+		chapter.5B00676D79306EA2.title: {
+			old: "Bem-vindo"
+			new: "&fBem-vindo"
+		}
+		chapter.0E81CBCD6B1D1895.title: {
+			old: "Geradores Apóticos"
+			new: "&fGerador Apótico"
+		}
+		chapter.3DEB33F78398EAD6.title: {
+			old: "Logística Básica"
+			new: "&fLogística Básica"
+		}
+		chapter.3B1C95642D1861F7.title: {
+			old: "Sentindo-se Elétrico"
+			new: "&fSentindo-se Elétrico"
+		}
+		chapter.5712300EF4E5E846.title: {
+			old: "Pylons"
+			new: "&fPylons"
+		}
+		chapter.4EAAE0CEB26378A6.title: {
+			old: "Just Dire Things"
+			new: "&fJust Dire Things"
+		}
+		chapter.23983F4DC524B14B.title: {
+			old: "Mekanism"
+			new: "&fMekanism"
+		}
+	}
+	"chapters/chapter_2_the_cool_parts.snbt": {
+		quest.7297391D026EE9A6.quest_desc: {
+			old: ["Quer algo empolgante e novo para gerar Energia? Que tal usar &dPoções&r para isso! É o que o &dGerador de Poções&r faz, ele pega suas &dPoções&r e gera Energia a partir delas, dependendo de sua força e duração."]
+			new: ["Quer algo empolgante e novo para gerar Energia? Que tal usar &dPoções&r para isso! É isso que o &dGerador de Poção&r faz, ele pegará suas &dPoções&r e gerará Energia a partir delas, dependendo de sua força e duração."]
+		}
+		quest.6A1145678E80FB8E.title: {
+			old: "&bGerador de Encantamentos"
+			new: "&bGerador de Encantamento"
+		}
+		quest.69201157ECFBB426.quest_desc: {
+			old: ["Eu sempre odeio quando tenho uma Fazenda de &5Endermen&r para XP ou Gemas do Apotheosis, mas acabo com todas essas &3Pérolas do Ender&r (hehe, acabo com &3pérolas do ender&r). Agora você pode usar essas &3Pérolas do Ender&r para Energia com o &3Gerador de Ender&r. Você pode até fazer &aOlhos do Ender&r para ainda mais Energia!"]
+			new: ["Eu sempre odeio quando tenho uma Fazenda de &5Endermen&r para XP ou Gemas do Apotheosis, mas acabo com todas essas &3Pérolas do Ender&r. Agora você pode usar essas &3Pérolas do Ender&r para Energia com o &3Gerador Ender&r. Você pode até fazer &aOlhos do Ender&r para ainda mais Energia!"]
+		}
+		quest.07BEB974DF1E5AD3.quest_desc: {
+			old: ["Gera Energia na mesma taxa que um &aGerador de Esmeralda&r, mas tem uma Taxa de Transferência muito maior. Também indiscutivelmente mais barato, pois leva menos itens, mas esse item também é &5Netherita&r, então..."]
+			new: ["Funciona exatamente como um Gerador de Ferro... só que muito melhor! "]
+		}
+		quest.40DB6E3DE87F16EF.quest_desc: {
+			old: [
+				"O &dHálito de Dragão&r é um item poderoso (e fedido) e misterioso. Poderoso significa que podemos gerar Energia com ele, e muita! O &5Gerador de Halitose&r gera Energia a partir do &dHálito de Dragão&r!"
+				""
+				"(A propósito, você pode farmar &dHálito de Dragão&r com um Extrator do &6XyCraft&r com uma Cabeça de Dragão)."
+			]
+			new: [
+				"O &dB hálito de Dragão&r é um item poderoso, (fedido) e misterioso. Poderoso significa que podemos gerar Energia com ele, e muita! O &5Gerador de Halitose&r gera Energia a partir do &dB hálito de Dragão&r!"
+				""
+				"(A propósito, você pode farmar &dB hálito de Dragão&r com um Extrator do XyCraft com uma Cabeça de Dragão)."
+			]
+		}
+		quest.7297391D026EE9A6.title: {
+			old: "&dGerador de Poções"
+			new: "&dGerador de Poção"
+		}
+		quest.6A1145678E80FB8E.quest_desc: {
+			old: ["Existem tantos &5Encantamentos&r inúteis por aí, por que não obter alguma Energia deles! O &bGerador de Encantamentos&r usa &5Livros Encantados&r para gerar Energia. O Nível e a Raridade dos &5Livros Encantados&r alteram a quantidade de Energia que você obtém deles."]
+			new: ["Existem tantos &5Encantamentos&r inúteis por aí, por que não obter alguma Energia deles! O &bGerador de Encantamento&r usa &5Livros Encantados&r para gerar Energia. O Nível e a Raridade dos &5Livros Encantados&r mudam a quantidade de Energia que você obtém deles."]
+		}
+		quest.61F265D9A5713A4D.title: {
+			old: "&fGerador de Ferro"
+			new: "&6&lGenerator Galore"
+		}
+		quest.07BEB974DF1E5AD3.title: {
+			old: "&5Gerador de Netherita"
+			new: "&cGerador de Netherite"
+		}
+		quest.1C73E60FC70408D4.quest_desc: {
+			old: ["Finalmente um Gerador único! Culinária é o nome da arte da Comida. Estes Geradores não usam Carvão, Lava, ou mesmo toras, eles usam Comida. Qualquer coisa com Pontos de Fome pode ser usada para gerar Energia, a quantidade que gera é baseada na quantidade de Pontos de Fome que a Comida consiste. Bife dará mais Energia do que uma Cenoura."]
+			new: ["Finalmente um Gerador único! Culinária é o nome da arte da Comida. Estes Geradores não usam Carvão, Lava ou mesmo toras, eles usam Comida. Qualquer coisa com Pontos de Fome pode ser usada para gerar Energia, a quantidade que gera é baseada na quantidade de Pontos de Fome que a Comida possui. Bife dará mais Energia do que uma Cenoura."]
+		}
+		quest.68972BA647FDCF8F.quest_desc: {
+			old: ["Se você conhece o &l&6Productive Bees&r, deve conhecer LobsterJonn. Ele fez o &l&6Productive Bees&r e o &lGenerator's Galore&r (junto com muitos outros). O &6Gerador de Mel&r é uma boa maneira de conectar esses dois mods! O &6Gerador de Mel&r usa &6Mel Líquido&r para gerar Energia. "]
+			new: ["Se você conhece o &l&6Productive Bees&r, deve conhecer LobsterJonn. Ele fez o &l&6Productive Bees&r e o &l&6Generator's Galore&r (junto com muitos outros). O &6Gerador de Mel&r é uma boa maneira de conectar esses dois mods! O &6Gerador de Mel&r usa &6Mel Líquido&r para gerar Energia. "]
+		}
+		quest.69201157ECFBB426.title: {
+			old: "&3Gerador de Ender"
+			new: "&3Gerador Ender"
+		}
+		quest.61F265D9A5713A4D.quest_desc: {
+			old: ["Cada melhoria aprimora tudo, desde a quantidade que produz até o quanto pode armazenar e o que pode transferir para outros blocos! \\n \\nVocê precisará de um &6Gerador de Cobre&r para fazer um Gerador de Ferro, desculpem, odiadores de &6Cobre&r."]
+			new: ["O &6&lGenerator Galore&r mudou bastante! \\n\\nEles todos funcionam da mesma forma, use Item e obtenha Energia, mas seus tipos e Receitas mudaram. \\n\\nNão precisamos mais de Geradores de &6Cobre&f, &eOuro&f e &bDiamante&r, agora temos apenas Geradores de Ferro, &cNetherite&r e Geradores únicos. \\nTodos, exceto o &4Gerador Magmático&r, começam com o Gerador de Ferro!"]
+		}
+	}
+	file.snbt: {
+		file.0000000000000001.title: {
+			old: "All The Mods 10: To the Sky!"
+			new: "&f&lAll The Mods 10: To the Sky!&r"
+		}
+	}
+	"chapters/elmystical_agriculturerr.snbt": {
+		quest.3384308C78D86059.quest_subtitle: {
+			old: "Tier: &a2"
+			new: "Nível: &a2"
+		}
+		quest.66C52B137A4FF869.quest_desc: {
+			old: ["Esta é a Essência de Tier 4, feita combinando 4 Tertium com um Cristal de Infusão."]
+			new: ["Esta é a Essência de Nível 4, feita combinando 4 Tertium com um Cristal de Infusão."]
+		}
+		quest.6A18B971C3DB83AE.quest_subtitle: {
+			old: "Tier: &63"
+			new: "Nível: &63"
+		}
+		quest.26A7746051A4A079.quest_subtitle: {
+			old: "Tier: &63"
+			new: "Nível: &63"
+		}
+		quest.576ABF43FCF886B7.title: {
+			old: "&2Farmland de Prudentium"
+			new: "&2Terra Arável de Prudentium"
+		}
+		quest.66C52B137A4FF869.quest_subtitle: {
+			old: "Tier: &b4"
+			new: "Nível: &b4"
+		}
+		quest.73350AD668200E99.quest_subtitle: {
+			old: "Tier: &a2"
+			new: "Nível: &a2"
+		}
+		quest.13124A7E22999850.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.4530C14828C3D153.quest_subtitle: {
+			old: "Tier: &b4"
+			new: "Nível: &b4"
+		}
+		quest.76071C22A73A2026.title: {
+			old: "&cFarmland de Tertium"
+			new: "&cTerra Arável de Tertium"
+		}
+		quest.7580037DB8ADEB3C.quest_subtitle: {
+			old: "Tier: &a2"
+			new: "Nível: &a2"
+		}
+		quest.38A77DBAD24C4B53.quest_subtitle: {
+			old: "Tier: &63"
+			new: "Nível: &63"
+		}
+		quest.1CC4F8570A7A99EB.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.4821419D44F8083F.quest_desc: {
+			old: [
+				"Os &9Growth Accelerators&r aumentam muito ligeiramente a velocidade de crescimento de uma semente quando colocados diretamente sob a Farmland. Cada nível tem um alcance de quantos blocos 'para cima' ele pode acelerar, com Inferium sendo o mais baixo, com 12."
+				""
+				"Nota: Growth Accelerators de todos os níveis fornecem a mesma taxa de ticks de crescimento. Níveis mais altos, no entanto, têm um alcance maior, então você pode empilhar mais deles sob uma única planta. Não importa qual nível você usa, desde que o Growth Accelerators seja colocado dentro de seu alcance máximo."
+			]
+			new: [
+				"Os &9Growth Accelerators&r aumentam muito ligeiramente a velocidade de crescimento de uma semente quando colocados diretamente sob a Terra Arável. Cada nível tem um alcance de quantos blocos 'para cima' ele pode acelerar, com Inferium sendo o mais baixo, com 12."
+				""
+				"Nota: Growth Accelerators de todos os níveis fornecem a mesma taxa de ticks de crescimento. Níveis mais altos, no entanto, têm um alcance maior, então você pode empilhar mais deles sob uma única planta. Não importa qual nível você usa, desde que o Growth Accelerators seja colocado dentro de seu alcance máximo."
+			]
+		}
+		quest.67DBE6C59C0D9D1B.quest_subtitle: {
+			old: "Tier: &c5"
+			new: "Nível: &c5"
+		}
+		quest.67DBE6C59C0D9D1B.quest_desc: {
+			old: ["Esta é a Essência de Tier 4, feita combinando 4 Imperium com um Cristal de Infusão."]
+			new: ["Esta é a Essência de Nível 4, feita combinando 4 Imperium com um Cristal de Infusão."]
+		}
+		quest.4526E151BAE88310.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.712EB19B26D405DD.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.1E7DC8E0493BE99E.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.6D0A876D4E4D35AB.quest_subtitle: {
+			old: "Tier: &5Criativo"
+			new: "Nível: &5Criativo"
+		}
+		quest.409A92D40F539485.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+		quest.260F9C98DC2E485B.quest_subtitle: {
+			old: "Tier: &b4"
+			new: "Nível: &b4"
+		}
+		quest.48BF71269DEA1AB1.title: {
+			old: "&4Farmland de Supremium"
+			new: "&4Terra Arável de Supremium"
+		}
+		quest.32B01BD789F0B037.quest_desc: {
+			old: ["Supremium Despertado e outras essências de tier podem ser farmadas usando o mod &6Productive Bees&r."]
+			new: ["Supremium Despertado e outras Essências de Nível podem ser farmadas usando o mod &6Productive Bees&r."]
+		}
+		quest.202B1F54D3F06DAB.quest_subtitle: {
+			old: "Tier: &56"
+			new: "Nível: &56"
+		}
+		quest.5BC4250E4C9F803C.title: {
+			old: "&9Imperium Farmland"
+			new: "&9Terra Arável de Imperium"
+		}
+		quest.1609BF52108238B0.quest_subtitle: {
+			old: "Tier: &e1"
+			new: "Nível: &e1"
+		}
+	}
+	reward_table.snbt: {
+		reward_table.481E10AEAC95C550.title: {
+			old: "Recompensa: Lendária"
+			new: "Recompensa: Lendário"
+		}
+		reward_table.4D37FFAF33DF678A.title: {
+			old: "Recompensa: Rara"
+			new: "Recompensa: Raro"
+		}
+		reward_table.74164DBBE7919A3B.title: {
+			old: "Reatores Mekanism: Recompensas"
+			new: "Mekanism Reactors: Recompensas"
+		}
+		reward_table.617F6D802ED0FD00.title: {
+			old: "Recompensa: Épica"
+			new: "Recompensa: Épico"
+		}
+		reward_table.51D32A776892238B.title: {
+			old: "Powah: Vigoroso"
+			new: "Powah: Vibrante"
+		}
+		reward_table.04285B94275AB879.title: {
+			old: "Powah: Varas e Cabos"
+			new: "Powah: Varetas e Cabos"
+		}
+	}
+	"chapters/chapter_1_starting_out.snbt": {
+		quest.162AB6F9257EB71E.quest_desc: {
+			old: [
+				"Se quisermos começar com automação no ATM10:TTS, precisaremos nos aprofundar mais em energia e em alguns mods novos!"
+				""
+				"Embora o Capítulo 2 ainda não tenha sido lançado, você já pode começar com os mods que ele incluirá!"
+				""
+				"&bGenerators Galore&r (níveis e mudanças)"
+				""
+				"Níveis do &bGrowth Accelerator&r (recomendamos o direcional, é super rápido!)"
+				""
+				"&bGeOres&r (Cultive aqueles materiais que estão faltando!)&r"
+			]
+			new: [
+				"Existem várias maneiras de gerar seus primeiros bits de energia."
+				""
+				"Neste pacote, o Generators Galore foi totalmente reformulado! Com melhorias mais baratas para 8x e 64x, e aumento na produção de energia em geral, pegue um gerador a lava potente e comece! Se quisermos começar com automação no ATM10:TTS, precisaremos nos aprofundar mais em energia e em alguns mods novos!"
+				""
+				"Embora o Capítulo 2 ainda não tenha sido lançado, você pode começar com os mods que ele incluirá!"
+				""
+				"&bGenerators Galore&r (níveis e mudanças)"
+				""
+				"&bNíveis do Acelerador de Crescimento&r (recomendamos o direcional, é super rápido!)"
+				""
+				"&bGeores&r (Cultive os materiais que estão faltando!)&r"
+			]
+		}
+		quest.04ACC7E762537FB4.quest_desc: {
+			old: [
+				"Coloque um &6Minério&r dentro desta coisa e pule nela para espremer o &6Minério&r em 2 &6Minérios Brutos&r &8(às vezes)&r. Dê um sinal de &cRedstone&r para resetá-la depois de espremer."
+				""
+				"&8Dica: Coloque alguns Suportes de Armadura em cima :)&r"
+			]
+			new: ["Não precisaremos de um bilhão de Máquinas chiques para Duplicar Minérios aqui... precisaremos apenas de algumas! \\n\\nO &3&lEspremedor&r do &3&lID&r pode transformar &7Blocos de Minério Bruto&r em &7Minério Bruto&r. \\n\\nPara usá-lo, basta colocar o &7Bloco de Minério Bruto&r no &3&lEspremedor&r e Pular sobre ele para empurrá-lo para baixo. Uma vez que seja Esmagado, o &7Minério Bruto&r será expelido. Raramente, pode até dar mais! \\n\\nMas espere! Isso não é tudo! \\n\\nTambém temos os Martelos de Minério, que podem quebrar &7Minérios Brutos&r em 2 &7Pós&r, que podem ser Fundidos em &7Barras&r."]
+		}
+		quest.2C134DDBF9283407.quest_desc: {
+			old: ["Para aqueles que querem acelerar o início, isto oferece um começo no 'modo fácil'. Você não precisa completar esta missão, e ela é opcional para a progressão."]
+			new: ["Para aqueles que querem acelerar o início, esta missão oferece um começo no 'modo fácil'. Você não precisa completar esta missão, e ela é opcional para a progressão."]
+		}
+		quest.647E94E2156CB596.quest_desc: {
+			old: ["Esses geradores realmente funcionam de maneira um pouco diferente do que você pode esperar. O primeiro nível de gerador que você usa agora fará TODOS os mesmos materiais que você precisa com diferentes entradas e blocos focados na parte inferior!"]
+			new: [
+				"Se você jogou &b&lATM9TTS&r, provavelmente se lembra dos &7Blocos Geradores de Pedra&r que simplesmente criavam &7Pedregulho&r em um Inventário acima deles. \\n\\nEstes funcionam um pouco diferente... você ainda precisará de um Inventário acima do &7&lGerador&r para coletar os Blocos, mas a forma como funciona é diferente. \\n\\nPara funcionar, precisaremos de uma &cFonte de Lava&r e uma &9Fonte de Água&r em 2 dos Lados do &7&lGerador&r. Então, ele começará a fazer &7Pedregulho&r. \\n\\nSe quisermos fazer outros Blocos como &7Andesito&r ou até mesmo &5Obsidiana&r, precisaremos colocar esses Blocos sob o &7&lGerador&r. Verifique no JEI para ver mais Receitas! \\n\\nPodemos aprimorar os &l&7Geradores&r, isso apenas os acelerará!"
+				"{image:atm:textures/questpics/chap1/chap1_stone.png width:150 height:100 align:center}"
+			]
+		}
+		quest.647E94E2156CB596.title: {
+			old: "&#ABABABGerador de &lPedra"
+			new: "&7&lGerador de Pedra"
+		}
+		quest.376BAC497511F067.quest_subtitle: {
+			old: "Tudo ganha uma melhoria neste pacote?"
+			new: "Tudo recebe uma melhoria neste pacote?"
+		}
+		quest.04ACC7E762537FB4.title: {
+			old: "&7Espremedor"
+			new: "Duplicação Fácil de Minérios"
+		}
+		quest.376BAC497511F067.quest_desc: {
+			old: [
+				"Se você cercar uma &8Fornalha&r com &f&lFerro&r em uma &6Bancada de Trabalho&r, você pode aprimorar sua &8Fornalha&r para uma &f&lFornalha de Ferro&r."
+				""
+				"Estas derretem mais rápido e também podem ser configuradas para serem automatizadas com a &6Engrenagem&r no canto superior esquerdo da &6Interface&r."
+			]
+			new: [
+				"Se você cercar uma fornalha com Ferro em uma bancada de trabalho, poderá aprimorar sua fornalha para uma Fornalha de Ferro."
+				""
+				"Elas fundem mais rápido e também podem ser configuradas para automação com a engrenagem no canto superior esquerdo da interface."
+			]
+		}
+		quest.376BAC497511F067.title: {
+			old: "&fFundindo &f&lFerro&r &fcom &f&lFerro"
+			new: "Fundindo ferro com ferro"
+		}
+		quest.2C134DDBF9283407.title: {
+			old: "Um Começo com Vantagem"
+			new: "Uma Vantagem Inicial"
+		}
+		quest.29F82373417B2006.quest_desc: {
+			old: ["Ficou sem mudas? Você pode conseguir algumas mudas de emergência no canto superior direito do menu de missões! É repetível também: não há necessidade de reiniciar seu mundo se algo ruim acontecer!\","]
+			new: ["Ficou sem mudas? Você pode obter algumas mudas de emergência no canto superior direito do menu de missões! E é repetível também: não há necessidade de reiniciar seu mundo se algo ruim acontecer!\","]
+		}
+		quest.2C134DDBF9283407.quest_subtitle: {
+			old: "Para aqueles que querem pular adiante"
+			new: "Para quem quer pular etapas"
+		}
+	}
+	"chapters/food_and_farming.snbt": {
+		quest.47764EFC822E462A.title: {
+			old: "&fUma Vaca num Pote"
+			new: "Uma Vaca na Jarra"
+		}
+		quest.72717D1135486D7F.title: {
+			old: "&fSoque a Grama"
+			new: "Soque a Grama"
+		}
+		quest.1515B32545F51266.title: {
+			old: "M&felhoria de Aquecimento"
+			new: "Melhoria de Aquecimento"
+		}
+		quest.1F114EB0AAB86DB4.quest_desc: {
+			old: ["Mercados fornecem um aldeão que pode te vender qualquer coisa se você tiver a quantidade certa de esmeraldas.\\n\\nSpoiler: Geralmente é apenas 1 Esmeralda por item, felizmente, eles têm TUDO."]
+			new: ["Mercados fornecem a você um aldeão que pode te vender qualquer coisa se você tiver a quantidade certa de esmeraldas.\\n\\nSpoiler: Geralmente é apenas 1 Esmeralda por item, por sorte, eles têm TUDO."]
+		}
+		quest.18EADBAFC932F864.title: {
+			old: "&fÉ Hora de Tosquiar"
+			new: "É Hora de Tosquiar"
+		}
+		quest.361DFDB1E1352D6B.title: {
+			old: "&fAçúcar, Açúcar"
+			new: "Açúcar Açúcar"
+		}
+		quest.0A1C2A7A8617D3E4.quest_subtitle: {
+			old: "Speedrunners Adoram Isso"
+			new: "Speedrunners Amam Isso"
+		}
+		quest.37CA6F9F0226F10E.title: {
+			old: "&fPrecisa de mais espaço para cozinhar?"
+			new: "Precisa de mais espaço para cozinhar?"
+		}
+		quest.73B8A70240E6070E.title: {
+			old: "Ordenhar uma Vaca - Lucro"
+			new: "Ordenhe uma Vaca - Lucre"
+		}
+		quest.2786D5AC19163524.quest_subtitle: {
+			old: "Não precisa de temporizador"
+			new: "Nenhum Cronômetro Necessário"
+		}
+		quest.04D0543FE2820F64.quest_desc: {
+			old: ["Hora de cultivar um pouco de linha! Alguns destes permitem cultivá-la diretamente, enquanto outros oferecem uma alternativa que funciona nas receitas."]
+			new: ["Hora de cultivar um pouco de linha! Alguns destes permitem que você a cultive diretamente, enquanto outros oferecem uma alternativa que funciona em receitas."]
+		}
+		quest.28C9EDBF6607E180.title: {
+			old: "&fA MELHOR COISA DESDE O PÃO DE FORMA"
+			new: "A MELHOR COISA DESDE O PÃO DE FORMA"
+		}
+		quest.1697CC05D08B388D.title: {
+			old: "&fAs Galinhas Devem Partir"
+			new: "As Galinhas Devem Ir"
+		}
+		quest.45F83C2750F70F9B.quest_desc: {
+			old: ["Vá em frente, coloque um Livro em uma Fornalha e derreta-o."]
+			new: ["Vá em frente, coloque um Livro em uma Fornalha e queime-o."]
+		}
+		quest.43021923E220CF68.title: {
+			old: "&fO Plantador"
+			new: "O Plantador"
+		}
+		quest.55C4824DAD905512.quest_desc: {
+			old: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2contribuidor da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta; se você está vendo isso, está no modo de edição."]
+			new: ["Esta Missão foi criada pela &6Equipe AllTheMods&r, ou por um &2colaborador da Comunidade&r para uso nos Modpacks AllTheMods.\\n\\nComo todos os pacotes &6AllTheMods&r são licenciados sob &eTodos os Direitos Reservados&r, esta Missão não pode ser usada em nenhum pacote público não lançado pela &6Equipe AllTheMods&r sem permissão explícita.\\n\\nEsta missão está intencionalmente oculta, se você está vendo isso, está no modo de edição."]
+		}
+		quest.2E9C035EEE7E5C34.quest_subtitle: {
+			old: "Vamos lá, cãozinho..."
+			new: "Vamos lá, cachorrinho"
+		}
+		quest.58495CFBF4F20CE9.quest_desc: {
+			old: ["Isso funciona como o balcão da cozinha, exceto no ar.\\n\\nE você não pode colocar coisas em cima dele."]
+			new: ["Isto funciona como o balcão da cozinha, exceto no ar.\\n\\nE você não pode colocar coisas em cima."]
+		}
+		quest.0EFF1AA37772156B.quest_desc: {
+			old: ["Este bloco fornece água para a cozinha multiblock.\\n\\nEle também pode fornecer água infinita bombeando água para fora através de cabos ou canos."]
+			new: ["Este bloco fornece água para a cozinha multi-bloco.\\n\\nEle também pode fornecer água infinita bombeando água para fora através de cabos ou canos."]
+		}
+		quest.2786D5AC19163524.title: {
+			old: "&fQuerida, tem uma Fornalha na Cozinha"
+			new: "Querida, tem uma Fornalha na Cozinha"
+		}
+		quest.18EADBAFC932F864.quest_subtitle: {
+			old: "Corrida Pacifista"
+			new: "Jornada Pacifista"
+		}
+		quest.45F83C2750F70F9B.title: {
+			old: "&fFazendo uma Cozinha, com um Livro"
+			new: "Fazendo uma Cozinha, com um Livro"
+		}
+		quest.1D2EF12FD7FDD217.quest_desc: {
+			old: ["As galinhas botam estes ovos naturalmente. Acho que não é realmente considerado naturalmente...\\n\\nAcho que as galinhas estão apenas se... &oOvo-xercitando!!!&r."]
+			new: ["Galinhas botarão estes naturalmente. Acho que não é realmente considerado natural...\\n\\nEu acho que as galinhas estão apenas se... &oOvo-rcitando!!!&r."]
+		}
+		quest.2E9C035EEE7E5C34.title: {
+			old: "&fVamos fazer do jeito antigo"
+			new: "Faremos isso à Moda Antiga"
+		}
+		quest.3EA883C0BB7BD38F.quest_subtitle: {
+			old: "De quem era o Velo... Arco-íris?"
+			new: "De quem era o Velo.... Arco-Íris?"
+		}
+		quest.635620A03E3505BF.quest_subtitle: {
+			old: "Mas... Vacas não podem ser tosqueadas..."
+			new: "Mas.... Vacas não podem ser tosquiadas..."
+		}
+		quest.58D5BD3106BFD94A.title: {
+			old: "&fCozinhando com o poder dos Diamantes"
+			new: "Cozinhando com o poder dos Diamantes"
+		}
+		quest.37CA6F9F0226F10E.quest_desc: {
+			old: ["Este bloco armazena itens para cozinhar.\\n\\nVocê também pode colocar outros itens de multiblock de cozinha sobre ele, como torradeiras e uma Vaca em um Pote."]
+			new: ["Este bloco armazena itens para cozinhar.\\n\\nVocê também pode colocar outros itens da cozinha multi-bloco sobre ele, como torradeiras e uma Vaca na Jarra."]
+		}
+		quest.47764EFC822E462A.quest_desc: {
+			old: ["Este bloco produz leite ao longo do tempo e habilita receitas de leite para a multiblock da cozinha.\\n\\nPara colocar uma vaca no pote, coloque o pote em um buraco. Atraia a vaca para cair no dito buraco acima do pote, e então jogue uma bigorna nela.\\n\\nNão tenho ideia de que vidro é esse, mas é mais forte que meu relacionamento com a Galinha."]
+			new: ["Este bloco produz leite ao longo do tempo e habilita receitas com leite para a cozinha multi-bloco.\\n\\nPara colocar uma vaca na jarra, coloque a jarra em um buraco. Atraia a vaca para cair no buraco acima da jarra, depois jogue uma bigorna nela.\\n\\nNão tenho ideia de que vidro é feito, mas é mais forte que meu relacionamento com a Galinha."]
+		}
+		quest.58D5BD3106BFD94A.quest_desc: {
+			old: ["Crie a próxima versão do livro. Eu prometo, vale a pena.\\n\\nEu até te devolvo um Diamante."]
+			new: ["Crie a próxima versão do livro. Eu prometo, vale a pena.\\n\\nEu até te darei um Diamante de volta."]
+		}
+		quest.04D0543FE2820F64.title: {
+			old: "&fFio de Linho"
+			new: "Linha de Linho"
+		}
+		quest.1F114EB0AAB86DB4.quest_subtitle: {
+			old: "O Aldeão tem mais de uma maneira de Nascer"
+			new: "O Aldeão tem mais de uma maneira de Surgir"
+		}
+		quest.1827DEEA2DF1B144.title: {
+			old: "&5Comida e Agricultura"
+			new: "Comida e Agricultura"
+		}
+		quest.72717D1135486D7F.quest_desc: {
+			old: ["Vamos coletar algumas sementes."]
+			new: ["Vamos juntar algumas sementes."]
+		}
+		quest.13AFCD3B6F62B986.title: {
+			old: "&fMelhoria de Gelo"
+			new: "Melhoria de Gelo"
+		}
+		quest.0A1C2A7A8617D3E4.title: {
+			old: "&eTrigo"
+			new: "Trigo"
+		}
+		quest.2786D5AC19163524.quest_desc: {
+			old: ["Este bloco ativa receitas de fundição no seu multibloco de cozinha!"]
+			new: ["Este bloco habilita receitas de fundição na sua cozinha multi-bloco!"]
+		}
+		quest.1DCAA0310AA55F1C.title: {
+			old: "O Começo de um Pescador"
+			new: "O Início de um Pescador"
+		}
+		quest.1D48298525EEADC9.quest_subtitle: {
+			old: "Derrame um pouco de Açúcar em mim!"
+			new: "Jogue um pouco de Açúcar em mim!"
+		}
+		quest.1D2EF12FD7FDD217.quest_subtitle: {
+			old: "...ou será que estou?"
+			new: "...ou estou?"
+		}
+		quest.3EA883C0BB7BD38F.title: {
+			old: "&fMaria Tinha um Carneirinho"
+			new: "Mary Tinha um Carneirinho"
+		}
+		quest.72717D1135486D7F.quest_subtitle: {
+			old: "Mão no Bloco 1, Grama no Bloco 0"
+			new: "Bloco Mão 1, Bloco Grama 0"
+		}
+		quest.1D2EF12FD7FDD217.title: {
+			old: "&fNão vou fazer uma piada de Ovo"
+			new: "Não vou fazer um trocadilho com Ovo"
+		}
+		quest.0EFF1AA37772156B.title: {
+			old: "&fA Pia = Água Infinita"
+			new: "A Pia = Água Infinita"
+		}
+		quest.2E9C035EEE7E5C34.quest_desc: {
+			old: ["A clássica Coleira. Use-a para levar animais para a sua área de fazenda.\\n\\nIsso não é a mesma coisa que o minério de chumbo."]
+			new: ["O Laço clássico. Use-o para levar animais para a área da sua fazenda.\\n\\nNão é a mesma coisa que o minério."]
+		}
+		quest.635620A03E3505BF.title: {
+			old: "&fCouro"
+			new: "Couro"
+		}
+		quest.28C9EDBF6607E180.quest_desc: {
+			old: ["Este bloco faz parte de uma cozinha multibloco.\\n\\nEle mostrará todas as receitas disponíveis para você com a comida que você tem em seu inventário, ou armazenada no multibloco da cozinha.\\n\\nVocê pode finalmente criar uma cozinha bonita no Minecraft."]
+			new: ["Este bloco faz parte de uma cozinha multi-bloco.\\n\\nIsto mostrará todas as receitas disponíveis para você com a comida que você tem no seu inventário, ou armazenada na cozinha multi-bloco.\\n\\nVocê pode finalmente criar uma bela cozinha no Minecraft."]
+		}
+		task.5805158E69C05AED.title: {
+			old: "TodosOsDireitosReservados"
+			new: "TodosDireitosReservados"
+		}
+		task.1D8904E53906D972.title: {
+			old: "TodosOsDireitosReservados"
+			new: "TodosDireitosReservados"
+		}
+		quest.3EA883C0BB7BD38F.quest_desc: {
+			old: ["Vamos coletar alguns pedaços de Lã!"]
+			new: ["Vamos juntar alguns pedaços de Lã!"]
+		}
+		quest.47764EFC822E462A.quest_subtitle: {
+			old: "Poderes de ordenha fenomenais.... espacinho de vida minúscula!"
+			new: "Poderes de Ordenha Fenomenais.... Espaço de vida Mínimo"
+		}
+		quest.1F114EB0AAB86DB4.title: {
+			old: "Comprando Suprimentos Agrícolas"
+			new: "Comprando Suprimentos de Fazenda"
+		}
+		quest.04D0543FE2820F64.quest_subtitle: {
+			old: "Quem precisa de Aranhas de qualquer maneira?"
+			new: "Quem precisa de Aranhas, afinal?"
+		}
+	}
+	"chapters/pylons.snbt": {
+		quest.30B0240543253EFB.title: {
+			old: "&lPylons"
+			new: "&f&lPylons"
+		}
+	}
+	chapter_group.snbt: {
+		chapter_group.428CE9AF17D90D68.title: {
+			old: "O Básico"
+			new: "&f&lO Básico"
+		}
+		chapter_group.029264819125415F.title: {
+			old: "Missões do Skyblock"
+			new: "&f&lMissões do Skyblock"
+		}
+		chapter_group.759EEB9DC52686ED.title: {
+			old: "Missões Específicas de Mods"
+			new: "&f&lMissões Específicas de Mods"
+		}
+		chapter_group.63C9361F0D859633.title: {
+			old: "Tecnologia"
+			new: "&f&lTecnologia"
+		}
+	}
+	"chapters/productive_trees.snbt": {
+		quest.5577F49A93ADB19C.title: {
+			old: "Árvores Produtivas"
+			new: "&fProdutctive Trees"
+		}
+		quest.5577F49A93ADB19C.quest_desc: {
+			old: ["&lÁrvores Produtivas&r é um Mod irmão de &lAbelhas Produtivas&r.\\n\\nPara obter as diferentes Árvores, você precisará de Folhas Polinizadas. Para obter Folhas Polinizadas, você precisa de Pólen. Para Pólen, você precisa de Abelhas.\\n\\nAs abelhas que florescem perto das Árvores polinizarão automaticamente as Folhas, ou você pode usar uma Melhoria de Peneira de Pólen na Colmeia para obter e usar o Pólen você mesmo! Pegue uma por conta da casa!"]
+			new: ["&lProdutctive Trees&r é um Mod irmão de &lProductive Bees&r.\\n\\nPara obter as diferentes Árvores, você precisará de Folhas Polinizadas. Para obter Folhas Polinizadas, você precisa de Pólen. Para Pólen, você precisa de Abelhas.\\n\\nAs abelhas que florescem perto das Árvores polinizarão automaticamente as Folhas, ou você pode usar uma Melhoria de Peneira de Pólen na Colmeia para obter e usar o Pólen você mesmo! Pegue uma por conta da casa!"]
+		}
+	}
+}

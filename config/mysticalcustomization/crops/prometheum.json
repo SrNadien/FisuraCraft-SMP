@@ -1,0 +1,13 @@
+{
+    "name": "Prometheum",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+      "item": "oritech:prometheum_ingot"
+    },
+    "color": "94A096",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_ingot",
+      "essence": "mysticalagriculture:item/essence_ingot"
+     }
+  }

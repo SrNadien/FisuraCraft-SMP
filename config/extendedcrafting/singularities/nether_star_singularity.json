@@ -1,0 +1,13 @@
+{
+  "name": "Induction Cassing ",
+  "colors": [
+    "ffcc00",
+    "ff9900"
+  ],
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "materialCount": 90,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

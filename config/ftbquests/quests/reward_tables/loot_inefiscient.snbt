@@ -1,0 +1,20 @@
+{
+	icon: {
+		id: "ironfurnaces:million_furnace"
+	}
+	id: "06FA457FBD48D472"
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{ id: "2D810115835CDFA6", item: { components: { "ftbquests:missing_item": "iceandfire:fire_dragon_blood" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3C47537B39DCB28E", item: { components: { "ftbquests:missing_item": "iceandfire:ice_dragon_blood" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "088FB81B7CF25DDA", item: { components: { "ftbquests:missing_item": "iceandfire:lightning_dragon_blood" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7C46C61D1F8A283C", item: { components: { "ftbquests:missing_item": "iceandfire:manuscript" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0AC8C4172D223229", item: { components: { "ftbquests:missing_item": "iceandfire:dragon_meal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "14CFD681D4FFCDCD", item: { components: { "ftbquests:missing_item": "iceandfire:dragonegg_amythest" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "52AC9C1778A6A35D", item: { components: { "ftbquests:missing_item": "iceandfire:dread_key" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "455CACB71E1AA1BB", item: { components: { "ftbquests:missing_item": "iceandfire:dragonbone_sword_fire" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7AFD217A2BF82D4A", item: { components: { "ftbquests:missing_item": "iceandfire:dragonbone_sword_ice" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1DB623B83EB0E057", item: { components: { "ftbquests:missing_item": "iceandfire:dragonbone_sword_lightning" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

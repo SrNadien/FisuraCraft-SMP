@@ -1,0 +1,13 @@
+{
+  "name": "Compact Wall ",
+  "colors": [
+    "1516d7",
+    "3b3f65"
+  ],
+  "ingredient": {
+    "item": "farmersdelight:sweet_berry_cheesecake_slice"
+  },
+  "materialCount": 50,
+  "enabled": false,
+  "inUltimateSingularity": true
+}

@@ -1,0 +1,43 @@
+{
+	id: "33B59C3356347A26"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{
+			id: "60439BC2F67453BD"
+			item: {
+				count: 1
+				id: "ironfurnaces:rainbow_plating"
+			}
+			random_bonus: 8
+		}
+		{ id: "522545B5709C5079", item: { count: 1, id: "ironfurnaces:rainbow_core" } }
+		{ id: "36CE2AC6A2855750", item: { count: 1, id: "ironfurnaces:augment_fuel" } }
+		{ id: "234DCD3BBD2B7E9A", item: { count: 1, id: "ironfurnaces:augment_speed" } }
+		{ id: "7B36E0204FC94F55", item: { count: 1, id: "ironfurnaces:augment_generator" } }
+		{ id: "54C0DB2209C41259", item: { count: 1, id: "ironfurnaces:augment_factory" } }
+		{ id: "41C1A9355340225C", item: { count: 1, id: "ironfurnaces:augment_smoking" } }
+		{ id: "76A33D12E9860117", item: { count: 1, id: "ironfurnaces:augment_blasting" } }
+		{ id: "7D2B9531B35BD0D9", item: { count: 1, id: "ironfurnaces:item_heater" } }
+		{ id: "2E95A3A5840B0BC1", item: { count: 1, id: "ironfurnaces:netherite_furnace" } }
+		{ id: "079C5174E386AB28", item: { count: 1, id: "ironfurnaces:copper_furnace" } }
+		{ id: "22A14DA3ADB672E4", item: { count: 1, id: "ironfurnaces:silver_furnace" } }
+		{ id: "0DD2A1ACEED91863", item: { count: 1, id: "ironfurnaces:item_spooky" } }
+		{ id: "09EE6F0E51AD58EE", item: { count: 1, id: "ironfurnaces:item_xmas" } }
+		{ id: "6C6196EC86F04344", item: { count: 1, id: "ironfurnaces:unobtainium_furnace" } }
+		{ id: "55DE8DC3F4292FD5", item: { count: 1, id: "ironfurnaces:allthemodium_furnace" } }
+		{ id: "237B88CA174C949E", item: { count: 1, id: "ironfurnaces:vibranium_furnace" } }
+		{ id: "0F642A94E629B742", item: { count: 1, id: "ironfurnaces:obsidian_furnace" } }
+		{ id: "27DB151CCF00B1D5", item: { count: 1, id: "ironfurnaces:emerald_furnace" } }
+		{ id: "1457907546BD6B57", item: { count: 1, id: "ironfurnaces:diamond_furnace" } }
+		{ id: "352A27F922529170", item: { count: 1, id: "ironfurnaces:gold_furnace" } }
+		{ id: "365614D36B703AC8", item: { count: 1, id: "ironfurnaces:iron_furnace" } }
+		{ id: "1294203435DEA5AC", item: { count: 1, id: "ironfurnaces:heater" } }
+		{ id: "222E5BDA6E9865D0", item: { count: 1, id: "ironfurnaces:upgrade_silver2" } }
+		{ id: "26A6DC9C6057D28D", item: { count: 1, id: "ironfurnaces:upgrade_gold2" } }
+		{ id: "1058F09AAA520D11", item: { count: 1, id: "ironfurnaces:upgrade_obsidian" } }
+		{ id: "0F7B772758A15B0D", item: { count: 1, id: "ironfurnaces:upgrade_crystal" } }
+		{ id: "75AAE102C5644725", item: { count: 1, id: "ironfurnaces:upgrade_netherite" } }
+		{ id: "2F65D1E68D50C936", item: { count: 1, id: "ironfurnaces:crystal_furnace" } }
+	]
+}

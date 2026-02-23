@@ -1,0 +1,93 @@
+{
+	id: "2123B88DDCEAA0EF"
+	loot_crate: {
+		color: 785259
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "projecte"
+	}
+	loot_size: 1
+	order_index: 40
+	rewards: [
+		{ id: "0D72394527A47290", item: { components: { "ftbquests:missing_item": "projecte:alchemical_coal_block" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0BE7CA7C000ECE37", item: { components: { "ftbquests:missing_item": "projecte:mobius_fuel_block" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5F741B9163752BCA", item: { components: { "ftbquests:missing_item": "projecte:aeternalis_fuel_block" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "22F5011F6CE1E3E7", item: { components: { "ftbquests:missing_item": "projecte:red_matter_block" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1EE3FDF0C9F3E061", item: { components: { "ftbquests:missing_item": "projecte:dark_matter_block" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "67C12BE81F4AE7E6", item: { components: { "ftbquests:missing_item": "projecte:dm_pedestal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2671C32C594C0A78", item: { components: { "ftbquests:missing_item": "projecte:condenser_mk1" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "21EE005AA56F5757", item: { components: { "ftbquests:missing_item": "projecte:alchemical_chest" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2867796E1C52B8AD", item: { components: { "ftbquests:missing_item": "projecte:condenser_mk2" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "276BEDACF8958983", item: { components: { "ftbquests:missing_item": "projecte:lime_alchemical_bag" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "44F093BB82ABBCC7", item: { components: { "ftbquests:missing_item": "projectexpansion:final_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "60FC43A82CA8AA59", item: { components: { "ftbquests:missing_item": "projectexpansion:transmutation_interface" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "166EF5CBBFB81645", item: { components: { "ftbquests:missing_item": "projectexpansion:condenser_mk3" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3DECA5AC20A3AC51", item: { components: { "ftbquests:missing_item": "projecte:gem_boots" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2AAB089B8C2CCDA0", item: { components: { "ftbquests:missing_item": "projecte:transmutation_table" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "37CC1D1434AFC9FA", item: { components: { "ftbquests:missing_item": "projecte:rm_katar" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0670BCED86343732", item: { components: { "ftbquests:missing_item": "projecte:rm_sword" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7702D467759F38C3", item: { components: { "ftbquests:missing_item": "projectexpansion:final_star" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "70642D47ADAE7010", item: { components: { "ftbquests:missing_item": "projectexpansion:final_emc_link" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3DEF48D76D5B6DCD", item: { components: { "ftbquests:missing_item": "projectexpansion:compact_sun" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7E7EDC8AEDF75F8F", item: { components: { "ftbquests:missing_item": "projecte:relay_mk3" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2672E4021003A34F", item: { components: { "ftbquests:missing_item": "projecte:dm_furnace" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "07AF7712768D9B28", item: { components: { "ftbquests:missing_item": "projecte:rm_furnace" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3CE35E4793E54787", item: { components: { "ftbquests:missing_item": "projecte:philosophers_stone" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "450A4E4E48939C16", item: { components: { "ftbquests:missing_item": "projecte:repair_talisman" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3964C2C045EFA843", item: { components: { "ftbquests:missing_item": "projecte:catalytic_lens" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7091F31693FB3EB6", item: { components: { "ftbquests:missing_item": "projectexpansion:lime_compressed_collector" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "1EA589D70815BC86", item: { components: { "ftbquests:missing_item": "projectexpansion:green_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0BA75FE9FD91B9D2", item: { components: { "ftbquests:missing_item": "projecte:interdiction_torch" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "55336DEC4DA49BA9", item: { components: { "ftbquests:missing_item": "projecte:dark_matter" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "584ACF218D838214", item: { components: { "ftbquests:missing_item": "projecte:red_matter" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "42DA5560A87B6E31", item: { components: { "ftbquests:missing_item": "appliede:wireless_transmutation_terminal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7B1E7C4782239985", item: { components: { "ftbquests:missing_item": "appliede:emc_module" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0ADAE1531E3756E8", item: { components: { "ftbquests:missing_item": "appliede:emc_interface" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5AAE1C51F0B93081", item: { components: { "ftbquests:missing_item": "appliede:cable_emc_interface" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3DC33180681ABD8D", item: { components: { "ftbquests:missing_item": "appliede:emc_export_bus" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4CBF33D1EC83FFFE", item: { components: { "ftbquests:missing_item": "appliede:emc_import_bus" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "16E5DDC6C5D74FFC", item: { components: { "ftbquests:missing_item": "appliede:transmutation_terminal" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "004FD2ECBEDFD3C8", item: { components: { "ftbquests:missing_item": "appliede:learning_card" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7FFC94B9FC11981A", item: { components: { "mekanism:energy": { energy_containers: [L;16000000L] } }, count: 1, id: "mekanism:mekasuit_helmet" } }
+		{ id: "6FBC81EC8D000A1F", item: { components: { "mekanism:energy": { energy_containers: [L;16000000L] } }, count: 1, id: "mekanism:mekasuit_bodyarmor" } }
+		{ id: "38F5B9D2CEC00F96", item: { components: { "mekanism:energy": { energy_containers: [L;16000000L] } }, count: 1, id: "mekanism:mekasuit_pants" } }
+		{ id: "3BE3157B9F720EF2", item: { components: { "mekanism:energy": { energy_containers: [L;16000000L] } }, count: 1, id: "mekanism:mekasuit_boots" } }
+		{ id: "3B98489144FBEADF", item: { count: 1, id: "minecraft:dirt" } }
+		{ id: "3E4E49E14EA21D8D", item: { count: 1, id: "kubejs:dirt_cell" } }
+		{ id: "7EC8E77FC5BEDEC5", item: { count: 1, id: "kubejs:lava_cell" } }
+		{ id: "40F8888C6D8967AA", item: { count: 1, id: "minecraft:oak_fence" } }
+		{ id: "059E99AC5B37D827", item: { count: 1, id: "minecraft:oak_fence_gate" } }
+		{ id: "3DC30C816BB17C87", item: { components: { "ftbquests:missing_item": "witchery:grassper" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6792C3B39069C884", item: { count: 1, id: "minecraft:weathered_copper_door" } }
+		{ id: "7308F867590563FC", item: { components: { "ftbquests:missing_item": "projectexpansion:basic_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4D80AD6C5EA57F96", item: { components: { "ftbquests:missing_item": "projectexpansion:dark_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4A3505768E7792A9", item: { components: { "ftbquests:missing_item": "projectexpansion:red_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6D323760C0375E98", item: { components: { "ftbquests:missing_item": "projectexpansion:magenta_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "30CDA49ADA1F401B", item: { components: { "ftbquests:missing_item": "projectexpansion:pink_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4D3AFBE37A62F9B8", item: { components: { "ftbquests:missing_item": "projectexpansion:purple_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "06F1C09A21F2A935", item: { components: { "ftbquests:missing_item": "projectexpansion:violet_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "45DD0F9647AE59C0", item: { components: { "ftbquests:missing_item": "projectexpansion:blue_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "17736C89E828EC72", item: { components: { "ftbquests:missing_item": "projectexpansion:cyan_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2E824FBFA4F4EF35", item: { components: { "ftbquests:missing_item": "projectexpansion:lime_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "0B0A5F6B8868DB31", item: { components: { "ftbquests:missing_item": "projectexpansion:yellow_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6F2FD06CD8408251", item: { components: { "ftbquests:missing_item": "projectexpansion:orange_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "4B7305E36AC00209", item: { components: { "ftbquests:missing_item": "projectexpansion:white_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "354CF2C920C2A57F", item: { components: { "ftbquests:missing_item": "projectexpansion:fading_power_flower" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "2D25C7DA88FF4E78", item: { components: { "ftbquests:missing_item": "botanypotstiers:mega_terracotta_hopper_botany_pot" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5A6389B2D6A3EABA", item: { count: 1, id: "minecraft:acacia_trapdoor" } }
+		{
+			command: "/say @p Trolleado Papu!"
+			icon: {
+				components: {
+					"ftbquests:icon": "create:textures/gui/logo.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1C379189B8514199"
+			type: "command"
+		}
+	]
+}

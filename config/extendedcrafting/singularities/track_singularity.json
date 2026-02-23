@@ -1,0 +1,13 @@
+{
+  "name": "Track ",
+  "colors": [
+    "8585e6",
+    "b1b4d1"
+  ],
+  "ingredient": {
+    "item": "create:track"
+  },
+  "materialCount": 50,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

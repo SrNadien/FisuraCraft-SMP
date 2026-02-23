@@ -1,0 +1,58 @@
+{
+	id: "639509C7B28C90DF"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "legendary_reward"
+	}
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ id: "68E133FF0DA9123B", item: { count: 1, id: "mekanism:atomic_disassembler" } }
+		{
+			id: "7F58F957DE0C2044"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:stack_upgrade_tier_4"
+			}
+			weight: 3.0f
+		}
+		{ id: "7D2F567E6112B898", item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_tier_4" } }
+		{
+			id: "235247196C17D304"
+			item: {
+				count: 1
+				id: "powah:thermo_generator_spirited"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "49EFD766FD54F83E"
+			item: {
+				count: 1
+				id: "powah:solar_panel_spirited"
+			}
+			weight: 2.0f
+		}
+		{ id: "0F5040D19EF1FE6F", item: { count: 1, id: "powah:solar_panel_nitro" } }
+		{
+			count: 36
+			id: "099FA1995F021C2F"
+			item: {
+				count: 1
+				id: "powah:reactor_spirited"
+			}
+		}
+		{ id: "3C34515E1F026936", item: { components: { "ftbquests:missing_item": "thermal_extra:upgrade_augment" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "384F28912BD65CE1", item: { components: { "ftbquests:missing_item": "argentinas_delight:laxante" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5643DFF05B4666EF", item: { components: { "ftbquests:missing_item": "argentinas_delight:jarraconjugodepina" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "68F2186B9C0F57BF", item: { components: { "ftbquests:missing_item": "argentinas_delight:dulcedeleche" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7F2E314A434F29C8", item: { components: { "ftbquests:missing_item": "argentinas_delight:tablachura" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "47F011A108BF1226", item: { components: { "ftbquests:missing_item": "argentinas_delight:manjarosarino" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+	use_title: true
+}

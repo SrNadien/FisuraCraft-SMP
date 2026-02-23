@@ -1,0 +1,34 @@
+{
+	id: "6AF94D0F814BF4CC"
+	loot_size: 1
+	order_index: 14
+	rewards: [
+		{ id: "77BD88F4960DABB1", item: { count: 1, id: "ars_nouveau:glyph_ignite" } }
+		{ id: "55CB733196D5C850", item: { count: 1, id: "ars_nouveau:glyph_underfoot" } }
+		{ id: "44D788B8886667DB", item: { count: 1, id: "ars_nouveau:glyph_bounce" } }
+		{ id: "318FE867990648A7", item: { count: 1, id: "ars_nouveau:glyph_craft" } }
+		{ id: "692A19C2BAE87B65", item: { count: 1, id: "ars_nouveau:glyph_rune" } }
+		{ id: "6FC119B9F8B9D23E", item: { count: 1, id: "ars_nouveau:glyph_snare" } }
+		{ id: "3BAE8E2F61A02760", item: { count: 1, id: "ars_nouveau:glyph_freeze" } }
+		{ id: "0C7D907943A08F93", item: { count: 1, id: "ars_nouveau:glyph_summon_steed" } }
+		{ id: "32E5AE6F8B49FEF6", item: { count: 1, id: "ars_nouveau:glyph_amplify" } }
+		{ id: "558396001D41E205", item: { count: 1, id: "ars_nouveau:glyph_harvest" } }
+		{ id: "6B2453E9EFDB4628", item: { count: 1, id: "ars_nouveau:glyph_sensitive" } }
+		{ id: "11274C293A2ED17A", item: { count: 1, id: "ars_nouveau:glyph_toss" } }
+		{ id: "2696B2FEE212626D", item: { count: 1, id: "ars_nouveau:glyph_delay" } }
+		{ id: "2B2A61249690F3D9", item: { count: 1, id: "ars_nouveau:glyph_light" } }
+		{ id: "0BF56A38F64EF009", item: { count: 1, id: "ars_nouveau:glyph_place_block" } }
+		{ id: "3B81575B19862124", item: { count: 1, id: "ars_nouveau:glyph_summon_wolves" } }
+		{ id: "11D46233C1131CFB", item: { count: 1, id: "ars_nouveau:glyph_cut" } }
+		{ id: "58D7B26A0AEB5798", item: { count: 1, id: "ars_nouveau:glyph_interact" } }
+		{ id: "43E361416B6C575B", item: { count: 1, id: "ars_nouveau:glyph_phantom_block" } }
+		{ id: "717CAD51B9CC530A", item: { count: 1, id: "ars_nouveau:glyph_evaporate" } }
+		{ id: "0968A0EDB147B75F", item: { count: 1, id: "ars_nouveau:glyph_leap" } }
+		{ id: "2D39ABB5615C0A51", item: { count: 1, id: "ars_nouveau:glyph_redstone_signal" } }
+		{ id: "47400383FFCFEA33", item: { count: 1, id: "ars_nouveau:glyph_pickup" } }
+		{ id: "78750B49699E52D2", item: { count: 1, id: "ars_nouveau:glyph_launch" } }
+		{ id: "2723BF988C0AF0AE", item: { count: 1, id: "ars_nouveau:glyph_dispel" } }
+		{ id: "6B7A5002C6EA5495", item: { count: 1, id: "ars_nouveau:glyph_pull" } }
+		{ id: "45F8688A0FFF1C05", item: { count: 1, id: "ars_nouveau:glyph_gust" } }
+	]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Certus Quartz ",
+  "colors": [
+    "5af0f0",
+    "ae3fff"
+  ],
+  "ingredient": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "materialCount": 350,
+  "inUltimateSingularity": true,
+  "enabled": true
+}

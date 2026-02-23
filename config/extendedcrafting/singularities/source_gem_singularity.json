@@ -1,0 +1,13 @@
+{
+  "name": "Source Gem ",
+  "colors": [
+    "a15fff",
+    "81bcd5"
+  ],
+  "ingredient": {
+    "item": "ars_nouveau:source_gem"
+  },
+  "materialCount": 100,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

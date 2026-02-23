@@ -1,0 +1,290 @@
+{
+	chapter.2333ACDCB157C930.title: "CobbleGen Galore"
+	chapter.28BCA5042050B140.title: "Inicios"
+	chapter.2ECCDA4CDC6B71FE.title: "Solar Flux Reborn"
+	chapter.31FB5FB6A589F774.title: "onstruction Wands Revived"
+	chapter.3A32A38909374FD9.title: "Creativo"
+	chapter.45E138C664B184F9.title: "Pickle Tweaks"
+	chapter.48D9D85F3D615D67.title: "Extended Crafting"
+	chapter.7732CF7AAA63DB3A.title: "Twiglight forest"
+	chapter.7AF827D2D101D343.title: "Artifacts"
+	chapter.7E7CC64F23E26037.title: "Avaritia"
+	chapter_group.029264819125415F.title: "&f&lInicios"
+	chapter_group.0B97F6C837C0329A.title: "&f&lAlmacenamiento"
+	chapter_group.428CE9AF17D90D68.title: "&f&lUtilidades"
+	chapter_group.4570A9067F9B05C4.title: "&6&lMagia"
+	chapter_group.63C9361F0D859633.title: "&f&lTechnologia"
+	chapter_group.65E566C38D2B3EFA.title: "&4&lEnd Game"
+	chapter_group.759EEB9DC52686ED.title: "&f&lGranjas"
+	file.0000000000000001.title: "&f&lFisura Craft!&r"
+	quest.0000A88BB40B2149.quest_desc: ["{atm9.quest.draconic.desc.prep}"]
+	quest.0000A88BB40B2149.title: "{atm9.quest.draconic.prep}"
+	quest.0152C49AB74B9D32.quest_desc: [
+		"You've probably heard people talk about how the &cFusion Reactor&r is the best power source in the pack. They are right."
+		""
+		"Once activated, the Reactor can push out up to 200MRF/t with the right setup. It can also be cooled with water to produce steam, which can go into an &9Industrial Turbine&r to make even more power."
+		""
+		"To build the Fusion Reactor, we need to follow a simple pattern. Each face will look like this:"
+		"{image:custom:textures/nuevarls/mek/fusion_pattern.png width:175 height:175 align:center}"
+		""
+		"For the top, we want replace the middle block with the Fusion Reactor Controller."
+		""
+		"For the ports, you can replace any of the Reactor Glass on the sides. For this setup, we'll need two ports to input &cDeuterium&r and &eTritium&r, then a port to output power. "
+		""
+		"{image:custom:textures/nuevarls/mek/completed_fusion_reactor.png width:175 height:150 align:center}"
+	]
+	quest.0696B725E840B996.quest_desc: [
+		"For us to take anything in or out of the Fission Reactor, we'll need &aFission Reactor Ports&r. These can be configured to input or output by using the &9Configurator&r. "
+		""
+		"Every Fission Reactor &aneeds a minimum of 4 Ports&r:"
+		""
+		"1 Coolant Input"
+		"1 Coolant Output"
+		"1 Fissile Fuel Input"
+		"1 Waste Output"
+		""
+		"For this starter build, let's put a port on each side like the image shown below. Make sure to configure them to match the list of inputs and outputs!"
+		""
+		"{image:custom:textures/nuevarls/mek/port_example.png width:200 height:200 align:center}"
+	]
+	quest.09DF0AF4E27A671C.quest_desc: [
+		"{atm9.quest.start3.desc.force}"
+		""
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"030548E7416DD46A\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+	]
+	quest.09DF0AF4E27A671C.title: "Ars Nouveau"
+	quest.0A762F06E21DE0E7.quest_desc: [
+		"Bienvenido a &5Fisura Craft &respero disfrutes mucho de este servidor que tanto tiempo le invertimos para que tengas la mejor experiencia"
+		""
+		"&b•&r Aquí encontrarás una comunidad amigable y muchas opciones de personalización para hacer tu experiencia única"
+		""
+		"&6•&r Participa en eventos regulares y mantente atento a las actualizaciones constantes que mantienen el servidor fresco y emocionante"
+		""
+		"&c•&r Nuestro equipo está siempre disponible para ayudarte y asegurarse de que disfrutes cada momento en Galaxy Origins."
+	]
+	quest.0A762F06E21DE0E7.title: "Bienvenido A FisuraCraft"
+	quest.0BD70DFE33D84323.quest_desc: [
+		"&b&lSieves&r are how we will get most of our Resources. \\n\\nPlace them down and they won't do much. We'll need to give them a Mesh in order to use them. The String Mesh is the first one but it can be upgraded. \\n\\nJust Right Click the &b&lSieve&r with a Mesh to place it and Shift Right Click it to take it out. \\n\\nWith the Mesh in, we can now Right Click certain Blocks into the &b&lSieve&r to push them through. Keep Right Clicking or Hold it and once they are all the way they will Drop Items. \\n\\nPro Tip: if there is &b&lSieves&r next to each other, they were work at the same time! This goes up to a 5x5 area!"
+		"{image:custom:textures/nuevarls/chap1/chap1_sieve.png width:100 height:100 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_sieves.png width:100 height:100 align:center}"
+	]
+	quest.0D05288932D4542A.quest_desc: [
+		"The most basic and cheap &2Growth Accelerator&r. \\n\\nBut first, what are &2Growth Accelerators&r? &2Growth Accelerators&r work by boosting any &2Crops&r or Crystals near them, in Growth. \\n\\nIf Wheat is adjacent to a Powered &2Growth Accelerator&r, it will Grow much faster. If a &5Budding Amethyst&r is adjacent to a Powered &2Growth Accelerator&r it will Grow &5Amethyst&r faster. \\n\\nThe &aCranked Growth Accelerator&r doesn't use Energy, instead it uses manual labor! Via Cranks! \\n\\nPlace a Wooden Crank on it, turn it with Right Click, and it will work."
+		"{image:custom:textures/nuevarls/chap2/chap2_geore.png width:100 height:100 align:center}"
+	]
+	quest.12649E8A55F3F8D6.quest_desc: [
+		"{atm9.quest.start3.desc.thermal}"
+		""
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"658721DF03EC997D\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+	]
+	quest.12649E8A55F3F8D6.title: "Compact Machines"
+	quest.1A97DDE49DB49E9D.quest_desc: [
+		"4 Buckets of &aFluid XP&r, one &2Seed&r of any type, as well as Drops from Zombies, Skeletons, Spiders, and Creepers will give us &5GM Chicken Feed Cursed&r. \\n\\nThis disgusting mass of microplastics, genetic modifications, and Gluten can be Fed to a Chicken to get a &dRotten Egg&r. The Chickens can not handle all the genetic modification and will procede to explode. \\n\\nWe can place the &dRotten Egg&r on Dirt to make &5Dreadful Dirt&r. It can make up to a 5x5 of &5Dreadful Dirt&r. \\n\\n&5Dreaful Dirt&r will Spawn &cHostile Mobs&r when Dark. Just at like 10 times the Rate. Even including some you don't see often!"
+		"{image:custom:textures/nuevarls/chap2/chap2_dreadful.png width:100 height:100 align:center}"
+	]
+	quest.1DE8B0C9A7195720.quest_desc: [
+		"Once you've finish placing in all of the required blocks to build the Reactor, it should give off red particles to show that it is complete."
+		""
+		"Right clicking anywhere on the Reactor will open up the &aInterface&r. This will have all of the information you need to run the Reactor properly, as well as two buttons to turn on and off the Reactor."
+		""
+		"On the left, you have 2 tanks: One for &bCoolant&r and one for &3Fissile Fuel&r. On the right, you have one for &8Nuclear Waste&r, and one for &bHeated Coolant&r, which will most likely be &bSteam&r."
+		""
+		"The &cTemperature&r bar will show you how hot the Reactor is. After a certain temp, the Reactor will start taking &4Damage&r, which will eventually cause the Reactor to explode."
+		""
+		"To adjust the &cBurn Rate&r of the Fissile Fuel and see more statistics, click on the (I) tab on the left side. Here, you can adjust the Rate Limit, which controls how much fuel the Reactor burns per tick."
+		""
+		"{image:custom:textures/nuevarls/mek/reactor_interface_1.png width:200 height:150 align:center}"
+		"{image:custom:textures/nuevarls/mek/reactor_interface_2.png width:200 height:150 align:center}"
+	]
+	quest.1FA942C07175C1E4.title: "Actually Additions"
+	quest.23E71537225B8392.quest_desc: [
+		"With our new found Wood, we can make Sticks. With our Sticks we can make a &6Crook&r! \\n\\nThese can be used to Break &2Leaves&r. When they do, the &2Leaves&r will Drop more &2Saplings&r and a new Item called &eSilkworms&r. \\n\\nThrow those &eSilkworms&r on &2Leaves&r to Infest them. This will spread to other Leaves and grow over time. \\n\\nWhy would any sane person want a &eSilkworm&r Infestation you ask? \\n\\nFor String of course! Just Break those White Leaves now to get it."
+		"{image:custom:textures/nuevarls/chap1/chap1_tree.png width:100 height:100 align:center}"
+	]
+	quest.24310BEACE75749D.quest_desc: [
+		"Addons function as upgrades as well as modules to &5Oritech&r. "
+		""
+		"Addons are to be added onto plug like looking slots. Number of addon depends on the machine cores being used."
+		""
+		""
+		"{image:custom:textures/nuevarls/oritech/ori-addon-slot.png width:50 height:100 align:left}"
+		""
+		"Addons also add additional functionality to the machines. Sometimes, you will need to add particular addons to allow recipes to work"
+	]
+	quest.26E2F5140F5173BA.title: "Bienvenido A Constructions Sticks"
+	quest.27ECF7EED4E9DD55.quest_desc: ["{atm9.quest.start3.desc.advanced}"]
+	quest.27ECF7EED4E9DD55.title: "Solar Flux Reborn"
+	quest.2A3BF8D20EEED292.quest_desc: [
+		"The &6&l(Oak) Barrel&r is a whole lot different from &2&lMinecraft&r Barrels. \\n\\nInfact we'll need it for lots of different Items and Blocks! \\n\\nWe can use it to Mix Items with Liquids by placing a Liquid inside and Dropping an Item into it. \\n\\nOr even Liquid Mixing by placing both of them into the &6&lBarrel&r. \\n\\nBy the way, for Mixing with &cLava&r you should use a &7&lStone Barrel&r. &6Wood&r ones will Burn! \\n\\nIf there is &9Rain&r, it will fill up with &9Water&r."
+		"{image:custom:textures/nuevarls/chap1/chap1_barrel.png width:100 height:110 align:center}"
+		"{image:atm:textures/questpics/chap1/chap1_leaves.png width:100 height:110 align:center}"
+	]
+	quest.2E07608C35779D3C.quest_desc: [
+		"Fundadores:"
+		"&bSrÑadien"
+		""
+		""
+		"Co-Fundadores:"
+		"&b-------------"
+		""
+		""
+		"Managers Del Servidor:"
+		"&btru &9Les mando un saludo (.,.)/"
+		""
+		""
+		"Administradores:"
+		"&b&lEsteban"
+	]
+	quest.3C49F2EEDCCAF1DF.quest_desc: [
+		"If you're like me, you probably got lost 55 times during these last few steps. This is a complicated system."
+		""
+		"A basic layout of your factory should be: "
+		""
+		"Raw ore goes into your Chemical Dissolution Chamber > pumps A GAS to Chemical Washer > pumps A GAS to Chemical Crystallizer >  outputs crystals to Chemical Injection Chamber > outputs shards to Purification Chamber > outputs clumps to Crusher > outputs dirty dusts to Enrichment Chamber > outputs clean dust to Smelter."
+		""
+		"{image:custom:textures/questpics/mek/mekanism_flowchart.png width:300 height:150 align:center fit:true}"
+	]
+	quest.3C49F2EEDCCAF1DF.quest_subtitle: "This is a lot, I know."
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"The &9Enchanting Apparatus&r is used to craft various items within the mod. It requires Source to work.\\n\\nIt is also a multiblock structure that utilizes Arcane Pedestals to craft.\\n\\nStart by placing an Arcane Core in the ground, then place the Enchanting Apparatus on top of it. Surround the Apparatus with Arcane Pedestals.\\n"
+		"{image:custom:textures/nuevarls/ars/enchanting_app.png width:200 height:175 align:center}"
+	]
+	quest.3DDF87A1E5F5D009.quest_desc: [
+		"In the beginning, you can get by with creating the &7Starter&r and &bBasic&r tier machines using Iron, but you'll eventually need to create energized mats using the &9Energizing Orb&r.\\n\\nThe &9Energizing Orb&r will energize items using nearby &aEnergizing Rods&r within a 9x9 area around it, creating better materials for you to use to progress through the &eTiers&r in Powah.\\n\\nTo power the orb, you'll need to attach Energizing Rods to Energy Cables that are being supplied with energy. If you want the Orb to energize faster, either make more rods, upgrade to higher tier rods, or both! To see if the Rods are connected, set your &aWrench&r to link mode and you can link any Rod to the Orb."
+		""
+		"{image:custom:textures/nuevarls/powah/powah_energizing.png width:200 height:200 align:center}"
+	]
+	quest.44EF05AADE7C8376.quest_desc: [
+		"{atm9.quest.proje.desc.welcome}"
+		""
+		"{atm9.quest.proje.desc.covdust}"
+	]
+	quest.44EF05AADE7C8376.title: "{atm9.quest.proje.welcome}"
+	quest.4BDE773C3359D584.quest_subtitle: "A Mini-Robot To Accompany You On Your Travels"
+	quest.50CEFDDF4F937A69.quest_desc: [
+		"{atm9.quest.start3.desc.mystical}"
+		""
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"0F96DC3563DA78EF\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+	]
+	quest.50CEFDDF4F937A69.title: "Mystical Agriculture"
+	quest.51D71CA472F930D1.quest_desc: [
+		"4 Buckets of &bFluid XP&r, some sort of &2Seed&r, and 4 select &2Crops&r will get us &2Nutritional Chicken Feed&r. \\n\\nThe 4 &2Crops&r or their &2Seeds&r are all obtained through &bSieving&r Dirt. \\n\\n&2Nutritional Chicken Feed&r can be Fed to a Chicken in order to get a &eGolden Egg&r! (At the cost of a Chicken's life.) \\n\\nThe &eGolden Egg&r can be Placed on Dirt and will make at most a 5x5 Area of &2Delightful Dirt&r. \\n\\n&2Delightful Dirt&r will Spawn &aPassive Mobs&r much more commonly than normal Dirt. It might even Spawn some you rarely see!"
+		"{image:custom:textures/nuevarls/chap2/chap2_delightful.png width:100 height:100 align:center}"
+	]
+	quest.52DD11BC71F45E32.quest_desc: [
+		"&9&lCrucibles&r are only here for one reason. Non-free &9Water&r! \\n\\nYou can wait for &9Rain&r to fill &6Barrels&r for free or just throw &2Leaves&r into a &9&lCrucible&r and wait. \\n\\nTrust me the &9&lCrucible&r is much quicker!"
+		"{image:custom:textures/nuevarls/chap1/chap1_crucible.png width:100 height:100 align:center}"
+	]
+	quest.54D8B9CB3F98040F.quest_desc: [
+		"Hohlraum filled with D-T Fuel? &oCheck!&r"
+		""
+		"Deuterium and Tritium ready to be pumped into the Reactor? &oCheck!&r"
+		""
+		"A Laser Amplifier with at least 400MRF ready to shoot into the Laser Focus Matrix? &oCheck!&r"
+		""
+		"Once you are ready, place the &5Hohlraum&r into the &aFusion Reactor Controller&r, pump in the Fuel, then activate your Laser Amplifier."
+		""
+		"If done right, &nyou'll see the Reactor activate!&r"
+		""
+		""
+		"{image:custom:textures/nuevarls/mek/fusion_activated.png width:225 height:150 align:center}"
+	]
+	quest.569B29F60344F5E8.quest_desc: [
+		"{atm9.quest.start3.desc.forbidden}"
+		""
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"34E8FF3196478229\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+	]
+	quest.569B29F60344F5E8.title: "Oritech"
+	quest.5A71A1F11FB74BDA.quest_desc: [
+		"&8Flux Networks&r is all about &8Flux&r! &8Flux&r is made from Crushing &cRedstone&r against &8Bedrock &fwith &5Obsidian&r! \\n\\nWe don't have &8Bedrock&r, but we do have &5Compressed Obsidian&r. Which 1X is close enough! \\n\\nPlace &51x Obsidian&r, with normal &5Obsidian&r above it with a 1 Block Gap. Throw the &cRedstone Dust&r between them and Left Click the top &5Obsidian&r to Crush it. \\n\\nThis will give us &8Flux Dust&r!"
+		"{image:custom:textures/nuevarls/chap2/chap2_flux1.png width:50 height:100 align:center}"
+		"{image:custom:textures/nuevarls/chap2/chap2_flux2.png width:50 height:100 align:center}"
+	]
+	quest.5F2AB15879E067B9.quest_desc: ["{atm9.quest.start3.desc.awakened}"]
+	quest.5FDB48511EC1C580.quest_desc: [
+		"Afraid of blowing up your Fission Reactor and causing a massive Radiation leak? Don't worry, we all are. &o*insert terrible flashback here*&r"
+		""
+		"So how can we prevent such a catastrophic disaster? By creating a redstone &aCircuit Breaker&r using &dFission Reactor Logic Adapters&r. Now these aren't 100% guaranteed to stop an explosion, but they are absolutely nice to have."
+		""
+		"Essentially, these Adapters allow us to control the Reactor using &cRedstone&r. With just one, you can use a lever to turn on and off the reactor. However, we're going to use them for damage control."
+		""
+		"You can also set these to give off a Redstone Signal based on a certain condition within the Reactor, like &cDamage Critical&r or &8Insufficient Fuel&r. This is useful for setting up a circuit breaker to shut off the Reactor if those ever happen."
+		""
+		"{image:custom:textures/nuevarls/mek/logic_adapter.png width:150 height:125 align:center}"
+	]
+	quest.628BD306EA9F79A9.quest_desc: ["{atm9.quest.start3.desc.seeds}"]
+	quest.647E94E2156CB596.quest_desc: [
+		"If you've played &b&lATM9TTS&r you probably remember &7Stone Generator Blocks&r that would just make &7Cobble&r in an Inventory above it. \\n\\nThese work a bit differently... you'll still need an Inventory above the &7&lGenerator&r to collect the Blocks but the way it works is different. \\n\\nIn order to work we'll need a &cLava Source&r and &9Water Source&r on 2 of the Sides of the &7&lGenerator&r. Then, it will start making &7Cobble&r. \\n\\nIf we want to make other Blocks like &7Andesite&r or even &5Obisidan&r, we'll need to place those Blocks under the &7&lGenerator&r. Check JEI to see more Recipes! \\n\\nWe can upgrade the &l&7Generators&r, these will just Speed them up!"
+		"{image:custom:textures/nuevarls/chap1/chap1_stone.png width:150 height:100 align:center}"
+	]
+	quest.6613AD93F15C943E.quest_desc: [
+		"{atm9.quest.start3.desc.blood}"
+		""
+		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"004F28C5C85F467B\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
+	]
+	quest.6613AD93F15C943E.title: "MIFA"
+	quest.68B0B3DAF1145191.quest_desc: ["Two of the very first things you will need to get started in AE2 are the &bCharger&f and the &bInscriber&f.\\n\\nThe &bCharger&f, when supplied with power, will take &eCertus Quartz Crystals&r and charge them. These &eCharged Certus Crystals&r can then be used in the production of &eFluix&f, another important resource in the mod. It can also be used to charge any item that stores power.\\n\\nThe &bCircuit Fabricator&f can be used to turn the various quartz crystals in AE2 into their dust form, but more importantly is used to fabricate special &ePrinted Circuits&f and &eProcessors&f, as will become clearer in the next quest."]
+	quest.6C1D268CE2B0D05D.quest_desc: [
+		"Cook up some &3Porcelain&r into a &c&lPorcelain Crucible&r. \\n\\nThese have 1 purpose. Cooking Items into &cLava&r! \\n\\nThrow the &c&lCrucible&r above a &6Heat Source&r. Some &6Heat&r more which Speed up the process. &cFire&r does more than &eLanterns&r, &cLava &fdoes more than &cFire&r. \\n\\nThen, place Blocks into the &c&lCrucible&r. Like &7Stone&r or even &4Netherrack&r. After some time it will make &cLava&r!"
+		"{image:custom:textures/nuevarls/chap1/chap1_lava.png width:120 height:200 align:center}"
+	]
+	quest.6FDB420BD5FF1E6B.quest_desc: [
+		"Quit picking up &7Pebbles&r, pick up these instead! \\n\\nYeah you heard me right! We can automate &7Andesite&r with the &7&lCobble Generator&r. \\n\\nBuild it like normal but place an &7Andesite Block&r beneath it and it will make &7Andesite&r instead of &7Cobble&r!"
+		"{image:custom:textures/nuevarls/chap2/chap2_gen.png width:100 height:100 align:center}"
+	]
+	quest.7778937DF377C1B4.quest_desc: [
+		"This is a great option for automatically generating &aEnergy&r."
+		""
+		"The amount of &aEnergy&r the &b&lWind Generator&r creates is based on its Y Level."
+		""
+		"This generates around 90FE/t at sea level and the most it can produce is 360FE/t!"
+		""
+		"The &b&lWind Generator&r will also need &bSky&r above it to work, like a Beacon!"
+	]
+	quest.7778937DF377C1B4.quest_subtitle: "Generates Power from the Wind"
+	quest.7778937DF377C1B4.title: "&b&lWind Generator"
+	quest.7E8E9F1F6BE23268.quest_desc: [
+		"Now that we have our Blocks we'll need to assemble our &c&lFoundry&r. \\n\\nFirst, is &6Liquid Heating Coils&r. These will make up the floor of the &c&lFoundry&r, and are needed to Heat up the &c&lFoundry&r. \\n\\nThe Walls will be made of &cFire Bricks&r or Windows. The Walls will also be where we place our &bDrains&f, &4Tanks&f, and &aControllers&r. \\n\\nThe &c&lFoundry&r will not need the frame built out, so every corner can remain empty; but it must have 4 Walls and a Floor to be completed. The &aController&r will tell you where a Block is missing, if there is one. \\n\\nThe &c&lFoundry&r can be as small as 1x1 on the inside, as long as it has a &aController&r, &6Liquid Heating Coils&r, and the other Walls filled! \\n\\nI don't recommend making one so small though, as the bigger the &c&lFoundry&r, the more space it has in it! \\n\\nYou'll know the &c&lFoundry&r is built, when the &aController&r lights up like a Furnace, and the &6Liquid Heating Coils&r turn &6Orange&r."
+		"{image:custom:textures/nuevarls/chap2/chap2_foundry.png width:100 height:100 align:center}"
+	]
+	reward.5F46EE0470923E5D.title: "Vallas??? Las Amas We"
+	reward_table.06C4634E81851A6C.title: "Reward: Common"
+	reward_table.1EC6956FA2BB2B00.title: "Basic Storage: Rewards"
+	reward_table.2123B88DDCEAA0EF.title: "ProjectE"
+	reward_table.379ADCC9CA64AE42.title: "brotes"
+	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
+	reward_table.3EFA2A65D70FADCC.title: "Oritech: Addons"
+	reward_table.481E10AEAC95C550.title: "Reward: Legendary"
+	reward_table.4D37FFAF33DF678A.title: "Reward: Rare"
+	reward_table.617F6D802ED0FD00.title: "Reward: Epic"
+	reward_table.63E11953DD289422.title: "Mekanism: Rewards"
+	reward_table.74164DBBE7919A3B.title: "Mekanism Reactors: Rewards"
+	task.07896B715ED0E04F.title: "Latón"
+	task.10CE7D11B912F418.title: "Any #c:ores/osmium"
+	task.14A09EAF150777A3.title: "Sulfur Dust"
+	task.163A6E303D6F419D.title: "Troncos de madera de arco"
+	task.18574AAEB6B01E23.title: "Hammers"
+	task.1F929F1DF23460AE.title: "Binding Cards"
+	task.23D186249A999B8C.title: "Quartz Cutting Knife"
+	task.2687A493F6A78164.title: "Gems"
+	task.2B3ACFF83C66D5B5.title: "{atm9.quest.pickleTweaks.diamondScythe}"
+	task.2D99E799D705C751.title: "Inscriber Presses"
+	task.338A6DA0D711B7DC.title: "ME Pattern Provider"
+	task.3C80EA3AE18D383A.title: "{atm9.quest.proje.dmarmor}"
+	task.4955A3ABD2526033.title: "Nova Catalysm"
+	task.5501000B1A34D867.title: "NOva Catalyst"
+	task.5BC88AE46F95774D.title: "Gravel or Sand"
+	task.5F11DCAFBE5387EB.title: "Any #c:ingots/enderium"
+	task.614537B82D178C57.title: "Condensador De Materia"
+	task.632B6D5074B7AA29.title: "Alchemic Chest"
+	task.64302742BE91F65E.title: "Energy Condenser MK\""
+	task.664130FB28E419EF.title: "I/O Crystals"
+	task.6B88F1F9DF50C1E4.title: "Any #forge:ingots/steel"
+	task.6C69AFF3AB98CFFA.title: "Builders Waaands Tete"
+	task.6EE4B6540CB6E4B7.title: "Any #alltheores:ore_hammers"
+	task.70BBA3F50B0F79AA.title: "Molino De Viento"
+	task.7241918F270CA402.title: "ME Interface"
+	task.74C9703C865B0F07.title: "{atm9.quest.pickleTweaks.diamondSickle}"
+	task.7508E906C021AB6B.title: "Tablones de madera de arco"
+	task.7BE4F42034F9F7E7.title: "Robit"
+}

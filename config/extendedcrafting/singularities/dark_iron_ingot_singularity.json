@@ -1,0 +1,13 @@
+{
+  "name": "Dark Iron ",
+  "colors": [
+    "783f00",
+    "2a4927"
+  ],
+  "ingredient": {
+    "item": "extendedcrafting:black_iron_ingot"
+  },
+  "materialCount": 300,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

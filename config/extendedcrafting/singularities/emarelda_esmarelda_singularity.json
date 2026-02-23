@@ -1,0 +1,13 @@
+{
+  "name": "Esmarelda Esmarelda ",
+  "colors": [
+    "27f888",
+    "34500b"
+  ],
+  "ingredient": {
+    "item": "minecraft:emerald_block"
+  },
+  "materialCount": 100,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

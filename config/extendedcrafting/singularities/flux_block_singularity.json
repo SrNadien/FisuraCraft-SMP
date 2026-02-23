@@ -1,0 +1,13 @@
+{
+  "name": "Flux Block ",
+  "colors": [
+    "1e66ce",
+    "3a9555"
+  ],
+  "ingredient": {
+    "item": "fluxnetworks:flux_block"
+  },
+  "materialCount": 450,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

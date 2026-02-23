@@ -1,0 +1,13 @@
+{
+  "name": "Uranium Cake ",
+  "colors": [
+    "aae750",
+    "ffffe4"
+  ],
+  "ingredient": {
+    "item": "mekanism:yellow_cake_uranium"
+  },
+  "materialCount": 500,
+  "enabled": true,
+  "inUltimateSingularity": true
+}

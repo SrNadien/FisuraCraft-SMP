@@ -1,0 +1,118 @@
+{
+	id: "3903E8F06E812E9F"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 2
+			id: "5C3188A853498859"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+			random_bonus: 2
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "41670FB35EB5C237"
+			item: {
+				count: 1
+				id: "ars_nouveau:abjuration_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "1FB13CFF14141A74"
+			item: {
+				count: 1
+				id: "ars_nouveau:conjuration_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "21B058A23E57AE2A"
+			item: {
+				count: 1
+				id: "ars_nouveau:air_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "47115C12770C975F"
+			item: {
+				count: 1
+				id: "ars_nouveau:fire_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "35D9EFE493E20056"
+			item: {
+				count: 1
+				id: "ars_nouveau:earth_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "56E7A810D7C37520"
+			item: {
+				count: 1
+				id: "ars_nouveau:water_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "385ACCB9785C8979"
+			item: {
+				count: 1
+				id: "ars_nouveau:wilden_spike"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "3E0C865AE3D15E3C"
+			item: {
+				count: 1
+				id: "ars_nouveau:wilden_wing"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "4B2E3C89F9D21D89"
+			item: {
+				count: 1
+				id: "ars_nouveau:wilden_horn"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "1A36EB8AB4C52B23"
+			item: {
+				count: 1
+				id: "ars_nouveau:starbuncle_shards"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+	]
+	use_title: true
+}

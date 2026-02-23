@@ -1,0 +1,36 @@
+{
+	id: "51C7B9DD33B5093F"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "2263A63D8C966190"
+			type: "xp_levels"
+			xp_levels: 5
+		}
+		{
+			id: "16A2251A8B81D52F"
+			type: "xp_levels"
+			weight: 2.0f
+			xp_levels: 4
+		}
+		{
+			id: "664AC5CA895DBC06"
+			type: "xp_levels"
+			weight: 5.0f
+			xp_levels: 3
+		}
+		{
+			id: "1417789366A2D334"
+			type: "xp_levels"
+			weight: 5.0f
+			xp_levels: 2
+		}
+		{
+			id: "0C66771A0B061AFA"
+			type: "xp_levels"
+			weight: 10.0f
+			xp_levels: 1
+		}
+	]
+}
