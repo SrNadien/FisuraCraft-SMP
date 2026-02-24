@@ -398,6 +398,21 @@ nadien.remove({id: 'botanypots:botanypots/crafting/yellow_terracotta_waxed_botan
 
 nadien.remove({output: ['botanypotstiers:elite_terracotta_botany_pot', 'botanypotstiers:elite_terracotta_hopper_botany_pot', 'botanypotstiers:ultra_terracotta_botany_pot', 'botanypotstiers:ultra_terracotta_hopper_botany_pot', 'botanypotstiers:mega_terracotta_botany_pot', 'botanypotstiers:mega_terracotta_hopper_botany_pot', 'botanypotstiers:elite_upgrade', 'botanypotstiers:ultra_upgrade', 'botanypotstiers:mega_upgrade']})
 
+//maceta basica
+ nadien.recipes.oritech
+        .assembler()
+        .itemInputs(['allthecompressed:clay_1x', 'ultimatefoods:patricio', 'ultimatefoods:bob_esponja', 'kubejs:mek_mechanism'])
+        .itemOutputs('2x botanypots:terracotta_botany_pot')
+
+//maceta normal con tolva
+nadien.recipes.oritech
+        .assembler()
+        .itemInputs(['botanypots:terracotta_hopper_botany_pot', 'ultimatefoods:patricio', 'ultimatefoods:bob_esponja', 'kubejs:mek_mechanism'])
+        .itemOutputs('2x botanypots:terracotta_hopper_botany_pot')
+
+
+
+
   //mejora  elite
   nadien.recipes.create.mechanical_crafting('2x botanypotstiers:elite_upgrade', [
       "   AAA  ",

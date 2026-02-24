@@ -44,15 +44,15 @@ ServerEvents.recipes(nadien => {
     "item": 'minecraft:shulker_spawn_egg'
   }
 })
- nadien.custom({
-  "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:other",
-  "preset": "minecraft:animal_eggs",
-  "result": {
-    "count": 1,
-    "item": 'botanypots:terracotta_hopper_botany_pot'
-  }
-})
+//  nadien.custom({
+//   "type": "farmingforblockheads:market",
+//   "category": "farmingforblockheads:other",
+//   "preset": "minecraft:animal_eggs",
+//   "result": {
+//     "count": 1,
+//     "item": 'botanypots:terracotta_hopper_botany_pot'
+//   }
+// })
 
  nadien.custom({
   "type": "farmingforblockheads:market",

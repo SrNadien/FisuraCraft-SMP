@@ -41,7 +41,7 @@ ServerEvents.recipes( nadien => {
             essenceCircle('8x occultism:spirit_attuned_gem', 'spirit_gem')
             essenceCircle('64x ultimatefoods:cajita_feliz', 'cajita_feliz')
             essenceCircle('4x kubejs:ingot_of_elevation', 'elevatium_ingot')
-            // essenceCircle(, '')
+            essenceCircle('8x createcasing:chorium_ingot', 'chromium')
             // essenceCircle(, '')
             // essenceCircle(, '')
             // essenceCircle(, '')

@@ -1,8 +1,13 @@
 ServerEvents.recipes((nadien) => {
+nadien.remove({id: ['extendedae\recipe\cutter\calculation_processor', 'extendedae\recipe\cutter\concurrent_processor',  'extendedae\recipe\cutter\engineering_processor',  'extendedae\recipe\cutter\accumulation_processor', 'extendedae\recipe\cutter\silicon_print', 'extendedae\recipe\cutter\logic_processor', 'extendedae\recipe\cutter\energy_processor', 'extendedae\recipe\inscriber\concurrent_print', 'extendedae\recipe\inscriber\concurrent_process', 'extendedae\recipe\assembler\accumulation_processor', 'extendedae\recipe\assembler\calculation_processor', 'extendedae\recipe\assembler\energy_processor', 'extendedae\recipe\assembler\engineering_processor', 'extendedae\recipe\assembler\logic_processor', 'mekmm\recipe\compat\ae2\stamper\*', 'mekmm\recipe\compat\ae2\stamper\printed_calculation_processor', 'mekmm\recipe\compat\ae2\stamper\printed_engineering_processor', 'mekmm\recipe\compat\ae2\stamper\printed_logic_processor', 'mekmm\recipe\compat\ae2\stamper\printed_silicon', 'mekmm\recipe\compat\advanced_ae\stamper\printed_quantum_processor', 'mekmm\recipe\compat\extendedae\stamper\concurrent_processor_print', 'mekmm\recipe\compat\megacells\stamper\printed_accumulation_processor']})
+  
+    nadien.remove({id: /mekmm:compat\/appflux.*/})
+    nadien.remove({id: /mekmm:compat\/advanced_ae.*/})
+    nadien.remove({id: /mekmm:compat\/ae2.*/})
+    nadien.remove({id: /mekmm:compat\/extendedae.*/})
+    nadien.remove({id: /mekmm:compat\/megacells.*/})
 
-
-  nadien.remove({id: ['extendedae\recipe\cutter\calculation_processor', 'extendedae\recipe\cutter\concurrent_processor',  'extendedae\recipe\cutter\engineering_processor',  'extendedae\recipe\cutter\accumulation_processor', 'extendedae\recipe\cutter\silicon_print', 'extendedae\recipe\cutter\logic_processor', 'extendedae\recipe\cutter\energy_processor', 'extendedae\recipe\inscriber\concurrent_print', 'extendedae\recipe\inscriber\concurrent_process', 'extendedae\recipe\assembler\accumulation_processor', 'extendedae\recipe\assembler\calculation_processor', 'extendedae\recipe\assembler\energy_processor', 'extendedae\recipe\assembler\engineering_processor', 'extendedae\recipe\assembler\logic_processor', 'mekmm\recipe\compat\ae2\stamper\*', 'mekmm\recipe\compat\ae2\stamper\printed_calculation_processor', 'mekmm\recipe\compat\ae2\stamper\printed_engineering_processor', 'mekmm\recipe\compat\ae2\stamper\printed_logic_processor', 'mekmm\recipe\compat\ae2\stamper\printed_silicon', 'mekmm\recipe\compat\advanced_ae\stamper\printed_quantum_processor', 'mekmm\recipe\compat\extendedae\stamper\concurrent_processor_print', 'mekmm\recipe\compat\megacells\stamper\printed_accumulation_processor']})
-  // --- Helpers --------------------------------------------------------------
+// --- Helpers --------------------------------------------------------------
 
   function addCircuitFabricatorRecipe(input, input_1, input_2, output) {
     nadien.recipes.custommachinery

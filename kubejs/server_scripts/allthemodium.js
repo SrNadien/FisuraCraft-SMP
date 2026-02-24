@@ -234,84 +234,107 @@ nadien.custom({
         .itemOutputs("allthemodium:unobtainium_vibranium_alloy_ingot")
 
   
-        ServerEvents.recipes(event => {
 
 
 
-  // // Alloy Sword
-  nadien.recipes.powah.energizing([
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:allthemodium_sword",
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:vibranium_sword",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:unobtainium_ingot",
-    "allthemodium:unobtainium_sword",
-    "allthemodium:unobtainium_ingot"
-  ], "allthemodium:alloy_sword", 100000)
-  .id("nadien_tweaks:pedistal/alloy_sword")
+nadien.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 100000,
+  "input": {
+    "item": "allthemodium:unobtainium_sword"
+  },
+  "ingredients": [
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:allthemodium_sword"},
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:vibranium_sword"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:unobtainium_ingot"},
+    {"item": "allthemodium:unobtainium_sword"},
+    {"item": "allthemodium:unobtainium_ingot"}
+  ],
+  "result": {"id": "allthemodium:alloy_sword"}
+}).id('nadien_tweaks:pedistal/allthemodium/alloy_sword')
+
+nadien.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 100000,
+  "input": {
+    "item": "allthemodium:unobtainium_pickaxe"
+  },
+  "ingredients": [
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:allthemodium_pickaxe"},
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:vibranium_pickaxe"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:unobtainium_ingot"},
+    {"item": "allthemodium:unobtainium_pickaxe"},
+    {"item": "allthemodium:unobtainium_ingot"}
+  ],
+  "result": {"id": "allthemodium:alloy_pick"}
+}).id('nadien_tweaks:pedistal/allthemodium/alloy_pick')
+
+nadien.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 100000,
+  "input": {
+    "item": "allthemodium:unobtainium_axe"
+  },
+  "ingredients": [
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:allthemodium_axe"},
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:vibranium_axe"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:unobtainium_ingot"},
+    {"item": "allthemodium:unobtainium_axe"},
+    {"item": "allthemodium:unobtainium_ingot"}
+  ],
+  "result": {"id": "allthemodium:alloy_axe"}
+}).id('nadien_tweaks:pedistal/allthemodium/alloy_axe')
+
+nadien.custom({
+  "type": "extendedcrafting:combination",
+  "power_cost": 100000,
+  "input": {
+    "item": "allthemodium:unobtainium_shovel"
+  },
+  "ingredients": [
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:allthemodium_shovel"},
+    {"item": "allthemodium:allthemodium_ingot"},
+    {"item": "allthemodium:vibranium_ingot"},
+    {"item": "allthemodium:vibranium_shovel"},
+    {"item": "allthemodium:vibranium_ingot"}, 
+    {"item": "allthemodium:unobtainium_ingot"},
+    {"item": "allthemodium:unobtainium_shovel"},
+    {"item": "allthemodium:unobtainium_ingot"}
+  ],
+  "result": {"id": "allthemodium:alloy_shovel"}
+}).id('nadien_tweaks:pedistal/allthemodium/alloy_shovel')
+
+nadien.custom({
+  "type": "extendedcrafting:shaped_ender_crafter",
+  "crafting_time": 240,
+  "pattern": ["UOV","PNA","HSR"],
+  "key": {
+    "U": {"tag": "c:plates/unobtainium"},
+    "O": {"item": "mekanismtools:refined_obsidian_paxel"},
+    "V": {"tag": "c:plates/vibranium"},
+    "P": {"item": "allthemodium:alloy_pick"},
+    "N": {"item": "mekanismtools:netherite_paxel"},
+    "A": {"item": "allthemodium:alloy_axe"},
+    "H": {"item": "allthemodium:piglich_heart"},
+    "S": {"item": "allthemodium:alloy_shovel"},
+    "R": {"tag": "c:rods/allthemodium"},
+  },
+  "result": {"id": "allthemodium:alloy_paxel"}
+}).id('nadien_tweaks:ender/allthemodium/alloy_paxel')
 
 
-  // Alloy Pick
-  nadien.recipes.powah.energizing([
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:allthemodium_pickaxe",
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:vibranium_pickaxe",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:unobtainium_ingot",
-    "allthemodium:unobtainium_pickaxe",
-    "allthemodium:unobtainium_ingot"
-  ], "allthemodium:alloy_pick", 100000)
-  .id("nadien_tweaks:pedistal/alloy_pick")
-
-
-  // Alloy Axe
-  nadien.recipes.powah.energizing([
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:allthemodium_axe",
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:vibranium_axe",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:unobtainium_ingot",
-    "allthemodium:unobtainium_axe",
-    "allthemodium:unobtainium_ingot"
-  ], "allthemodium:alloy_axe", 100000)
-  .id("nadien_tweaks:pedistal/alloy_axe")
-
-
-  // Alloy Shovel
-  nadien.recipes.powah.energizing([
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:allthemodium_shovel",
-    "allthemodium:allthemodium_ingot",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:vibranium_shovel",
-    "allthemodium:vibranium_ingot",
-    "allthemodium:unobtainium_ingot",
-    "allthemodium:unobtainium_shovel",
-    "allthemodium:unobtainium_ingot"
-  ], "allthemodium:alloy_shovel", 100000)
-  .id("nadien_tweaks:pedistal/alloy_shovel")
-
-
-  // Alloy Paxel
-  nadien.recipes.powah.energizing([
-    "#c:plates/unobtainium",
-    "mekanismtools:refined_obsidian_paxel",
-    "#c:plates/vibranium",
-    "allthemodium:alloy_pick",
-    "mekanismtools:netherite_paxel",
-    "allthemodium:alloy_axe",
-    "allthemodium:piglich_heart",
-    "allthemodium:alloy_shovel",
-    "#c:rods/allthemodium"
-  ], "allthemodium:alloy_paxel", 100000)
-  .id("nadien_tweaks:pedistal/alloy_paxel")
-
-})
 
 })

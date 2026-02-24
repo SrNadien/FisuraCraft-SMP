@@ -1,6 +1,58 @@
 ServerEvents.recipes(nadien => {
   
+nadien.remove({output: 'create:copper_casing'})
+ nadien.custom({
+      type: "create:item_application",
+      ingredients: [
+        {
+          item: "create:andesite_cassing"
+        },
+        {
+          tag: "c:ingots/copper"
+        },
+      ],
+      results: [
+        {
+          id: "create:copper_casing",
+        },
+      ],
+    }).id("nadien_tweaks:copper_cassing")
 
+nadien.remove({output: 'create:brass_casing'})
+ nadien.custom({
+      type: "create:item_application",
+      ingredients: [
+        {
+          item: "create:copper_casing"
+        },
+        {
+          tag: "c:ingots/brass"
+        },
+      ],
+      results: [
+        {
+          id: "create:brass_casing",
+        },
+      ],
+    }).id("nadien_tweaks:brass_cassing")
+
+ nadien.remove({output: 'create:railway_casing'})
+ nadien.custom({
+      type: "create:item_application",
+      ingredients: [
+        {
+          item: "create:brass_casing"
+        },
+        {
+          tag: "c:plates/obsidian"
+        },
+      ],
+      results: [
+        {
+          id: "create:railway_casing",
+        },
+      ],
+    }).id("nadien_tweaks:railway_cassing")
 
 //revestidor radiante
 nadien.remove({output: 'create:refined_radiance_casing'})
@@ -14,6 +66,25 @@ nadien.shaped('create:refined_radiance_casing', [
   c: 'create:railway_casing'
 }).id('nadien_tweaks:refined_radiance_casing')
 nadien.recipes.create.deploying('create:refined_radiance_casing', ['create:railway_casing', 'oritech:duratium_ingot']).id('nadien_tweaks:radiance_casing_deployer')
+
+nadien.custom({
+      type: "create:item_application",
+      ingredients: [
+        {
+          item: "create:railway_casing"
+        },
+        {
+          item: "createcasing:chorium_ingot"
+        },
+      ],
+      results: [
+        {
+          id: "create:refined_radiance_casing",
+        },
+      ],
+    }).id("nadien_tweaks:refined_radiance_cassing")
+
+
 
 //machine frame
 nadien.remove({output: 'rftoolsbase:machine_base'})
