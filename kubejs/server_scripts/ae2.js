@@ -1,4 +1,7 @@
 ServerEvents.recipes((nadien) => {
+
+
+  nadien.remove({id: ['extendedae\recipe\cutter\calculation_processor', 'extendedae\recipe\cutter\concurrent_processor',  'extendedae\recipe\cutter\engineering_processor',  'extendedae\recipe\cutter\accumulation_processor', 'extendedae\recipe\cutter\silicon_print', 'extendedae\recipe\cutter\logic_processor', 'extendedae\recipe\cutter\energy_processor', 'extendedae\recipe\inscriber\concurrent_print', 'extendedae\recipe\inscriber\concurrent_process', 'extendedae\recipe\assembler\accumulation_processor', 'extendedae\recipe\assembler\calculation_processor', 'extendedae\recipe\assembler\energy_processor', 'extendedae\recipe\assembler\engineering_processor', 'extendedae\recipe\assembler\logic_processor', 'mekmm\recipe\compat\ae2\stamper\*', 'mekmm\recipe\compat\ae2\stamper\printed_calculation_processor', 'mekmm\recipe\compat\ae2\stamper\printed_engineering_processor', 'mekmm\recipe\compat\ae2\stamper\printed_logic_processor', 'mekmm\recipe\compat\ae2\stamper\printed_silicon', 'mekmm\recipe\compat\advanced_ae\stamper\printed_quantum_processor', 'mekmm\recipe\compat\extendedae\stamper\concurrent_processor_print', 'mekmm\recipe\compat\megacells\stamper\printed_accumulation_processor']})
   // --- Helpers --------------------------------------------------------------
 
   function addCircuitFabricatorRecipe(input, input_1, input_2, output) {
@@ -126,6 +129,8 @@ ServerEvents.recipes((nadien) => {
       addSimpleCircuitFabricatorRecipe(recipe.input, recipe.output);
     }
   });
+
+    
 
   nadien.shaped(Item.of('custommachinery:custom_machine_item[custommachinery:machine="custommachinery:circuit_fabricator"]'), ["SDS", "IYN", "SDS"], {
       S: "ae2:silicon",

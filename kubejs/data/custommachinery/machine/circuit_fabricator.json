@@ -34,20 +34,33 @@
         "minecraft:gold_ingot",
         "minecraft:diamond",
         "minecraft:slime_ball",
-        "ftbmaterials:silicon_gem",
-        "appflux:charged_redstone",
         "megacells:sky_steel_ingot",
         "advanced_ae:quantum_alloy",
         "extendedae:entro_crystal",
         "ae2:printed_calculation_processor",
         "ae2:printed_logic_processor",
         "ae2:printed_engineering_processor",
-        "appflux:printed_energy_processor",
         "megacells:printed_accumulation_processor",
         "advanced_ae:printed_quantum_processor",
         "extendedae:concurrent_processor_print",
         "minecraft:iron_ingot",
-        "draconicevolution:draconium_block"
+        "draconicevolution:draconium_block",
+        "ae2:silicon",
+        "justdirethings:ferricore_ingot",
+        "justdirethings:blazegold_ingot",
+        "justdirethings:eclipsealloy_ingot",
+        "kubejs:osglolapis",  
+        "kubejs:osmiridiumingot",        
+        "kubejs:printed_estimation_circuit",
+        "kubejs:printed_methodolgy_circuit",
+        "kubejs:printed_scheduling_circuit",
+        "kubejs:printed_clearance_circuit",
+        "kubejs:printed_operation_circuit",
+        "kubejs:estimation_processor",
+        "kubejs:methodology_processor",
+        "kubejs:scheduling_processor",
+        "kubejs:clearance_processor",
+        "kubejs:operation_processor"
       ],
       "id": "input_1",
       "mode": "input"
@@ -87,7 +100,7 @@
       },
       "id": "input_upgrade",
       "mode": "none",
-      "capacity": 10
+      "capacity": 40
     }
   ],
   "gui": [
