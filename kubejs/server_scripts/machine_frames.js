@@ -5,7 +5,7 @@ nadien.remove({output: 'create:copper_casing'})
       type: "create:item_application",
       ingredients: [
         {
-          item: "create:andesite_cassing"
+          item: "create:andesite_casing"
         },
         {
           tag: "c:ingots/copper"
